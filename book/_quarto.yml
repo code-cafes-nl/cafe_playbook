@@ -9,7 +9,6 @@ book:
   chapters:
     - index.qmd
     - intro.qmd
-    - define.qmd
     - organization.qmd
     - logistics.qmd
     - format.qmd
