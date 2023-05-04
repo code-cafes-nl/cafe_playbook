@@ -9,8 +9,18 @@ book:
   chapters:
     - index.qmd
     - intro.qmd
+    - define.qmd
+    - organization.qmd
+    - logistics.qmd
+    - format.qmd
+    - community.qmd
     - summary.qmd
     - references.qmd
+    - part: "Use Cases"
+      chapters:
+      - uu.qmd
+      - vu.qmd
+      - tu-delft.qmd
 
 bibliography: references.bib
 
