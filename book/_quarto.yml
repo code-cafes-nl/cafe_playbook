@@ -3,8 +3,8 @@ project:
   output-dir: ../docs
 
 book:
-  title: "book"
-  author: "CAFE Playbook"
+  title: "CAFE Playbook"
+  author: "Neha, Ashley, Jonathan, Jelle, Stephanie, Meron, Lena, Aleks"
   date: "4-5-2023"
   chapters:
     - index.qmd
