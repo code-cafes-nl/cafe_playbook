@@ -1,5 +1,18 @@
 # Introduction
 
-This is a book created from markdown and executable code.
+## Why do you want a CAFE programming community in your university, faculty or organisation?
+Programming has become an essential skill for many fields, including research. However, learning to code can be a challenging and sometimes isolating experience, especially for beginners. That's where a programming community like CAFE can make a significant difference. Here are some reasons why you might want to consider starting a programming community in your university:
 
-See @knuth84 for additional discussion of literate programming.
+1. Build a supportive community
+Learning to code can be a frustrating and challenging experience, especially when you're stuck on a problem or error. Having a community of fellow programmers to turn to for support, advice, and encouragement can make all the difference. A programming community like CAFE can provide a supportive environment where researchers can connect with others who share their passion for programming and are eager to help them succeed.
+
+2. Foster collaboration and knowledge-sharing
+Programming is a collaborative activity, and having a community of programmers can help foster collaboration and knowledge-sharing. By working together on projects, sharing tips and tricks, and discussing best practices, researchers can learn from each other and grow their skills faster than they would working alone.
+
+3. Provide access to resources and opportunities
+A programming community like CAFE can also provide access to resources and opportunities that might otherwise be difficult to find. For example, members of the community might share job or internship opportunities, recommend useful tools and libraries, or organize coding workshops and hackathons.
+
+4. Promote diversity and inclusion
+By actively promoting diversity and inclusion, a programming community like CAFE can help create a more welcoming and supportive environment for all researchers, regardless of their background or level of experience.
+
+Overall, a programming community like CAFE can provide numerous benefits to researchers at your university. By building a supportive, collaborative, and inclusive community, you can help researchers learn and grow their programming skills, connect with like-minded individuals, and access new opportunities and resources.
