@@ -1,5 +1,22 @@
 # Introduction
 
+A programming CAFE (Code Along, Feel Empowered) is a community of researchers who are interested in programming. 
+
+## What types of CAFE communities can think of?
+
+The focus of a programming CAFE can vary depending on the needs and interests of the community. Here are some things to consider when defining the focus of your programming CAFE:
+
+1. Programming languages
+A programming CAFE can be focused on one specific programming language or on several languages. For example, you might start a CAFE that focuses exclusively on Python, or you might create a more general CAFE that covers several programming languages, such as Python, R, and MATLAB. The choice of programming languages will depend on the interests and needs of the community.
+
+2. Skill level
+Another factor to consider when defining the focus of your programming CAFE is the skill level of the participants. You might start a CAFE that is specifically designed for beginners, or you might create a more advanced CAFE that caters to experienced programmers. Alternatively, you might choose to create a CAFE that is open to researchers of all skill levels, with a focus on collaboration and knowledge-sharing.
+
+3. Research applications
+Finally, you might choose to define the focus of your programming CAFE based on specific research applications. For example, you might start a CAFE that focuses on using programming to analyze biological data, or you might create a CAFE that is dedicated to programming for social science research. The focus on research applications will depend on the interests and needs of the community.
+
+Overall, a programming CAFE is a community of researchers who are interested in programming. The focus of the CAFE can vary depending on the needs and interests of the community, including the choice of programming languages, skill level, and research applications. By defining the focus of your programming CAFE, you can create a community that is tailored to the needs of your target audience and that provides valuable resources, opportunities, and support for researchers who are interested in programming.
+
 ## Why do you want a CAFE programming community in your university, faculty or organisation?
 Programming has become an essential skill for many fields, including research. However, learning to code can be a challenging and sometimes isolating experience, especially for beginners. That's where a programming community like CAFE can make a significant difference. Here are some reasons why you might want to consider starting a programming community in your university:
 
