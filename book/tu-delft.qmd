@@ -3,12 +3,12 @@
 ## Who we are
 We’re a group of R enthusiasts from across the TU Delft community who meet monthly to discuss questions from the very broad, "Why should I use R?" to the hyper-specific, "Why is my code not working?!" 
 
+Together we make up a supportive community of practice for researchers to share knowledge and learn with each other in an open and informal setting.
+
 Our initiative has been running monthly meetings since November 2021 and was inspired by Utrecht University’s Programming Café.
 
 ## Who can join
 The R Café is open to anyone who works in R or is interested in learning. No prior experience with R is necessary - all are welcome! Many of our members have recently completed the Data Carpentry workshop and are looking for a space to continue practicing R skills with others. You can also join if you’ve got plenty of R experience and want to share some awesome tips and tricks (e.g., about an R package, type of analysis, or visualization) with others.
-
-Together we make up a supportive community of practice for researchers to share knowledge and learn with each other in an open and informal setting.
 
 ## Community meetings
 Our monthly meetings usually have a theme which we can touch upon by brief presentations by one or more of our members, exercises for us to work through, a group discussion, or some combination.
