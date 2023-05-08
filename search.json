@@ -28,11 +28,32 @@
     "text": "1.3 Who is it for?\nThe CAFE community is for researchers of all levels who are interested in programming, regardless of their field of study or level of experience. Here are some examples of personas who might benefit from participating in the community:\n1. The beginner programmer\nThe beginner programmer is just starting to learn how to code and may feel overwhelmed by the complexity of programming languages and tools. They might have a background in a non-technical field, such as the humanities or social sciences, and are interested in learning how to use programming to solve problems in their research. The CAFE community can provide the beginner programmer with a supportive environment where they can connect with others who are also learning to code, ask questions, and get help when they need it.\n2. The advanced programmer\nThe advanced programmer is an experienced coder who has already developed a strong skill set in one or more programming languages. They might be looking for opportunities to share their knowledge with others, collaborate on projects, or learn about new tools and techniques. The CAFE community can provide the advanced programmer with a platform to share their expertise, connect with other skilled programmers, and stay up-to-date with the latest trends in the field.\n3. The interdisciplinary researcher\nThe interdisciplinary researcher comes from a field of study that traditionally has not emphasized programming, but recognizes the importance of using computational methods to answer research questions. They might have a basic understanding of programming concepts but lack the technical skills to implement them. The CAFE community can provide the interdisciplinary researcher with a supportive and collaborative environment where they can learn programming skills that are relevant to their research.\n\nThe data specialist The data specialist is a researcher or support staff who specializes in working with datasets. They might be looking for opportunities to collaborate with other data experts, learn about new tools and techniques, or share their knowledge with researchers and others. The CAFE community can provide the data expert with a platform to connect with other researchers who share their interests, learn from each other, and collaborate on data-driven research projects.\n\nOverall, the CAFE community is for researchers who are interested in programming, regardless of their level of experience or field of study. By providing a supportive, collaborative, and inclusive environment, the community can help researchers learn and grow their programming skills, connect with like-minded individuals, and access new opportunities and resources."
   },
   {
-    "objectID": "organization.html",
-    "href": "organization.html",
+    "objectID": "organization.html#funding-opportunities",
+    "href": "organization.html#funding-opportunities",
     "title": "2  Organization",
-    "section": "",
-    "text": "Building and sustaining a community around learning how to program in R relies on a core team of organizers who can take responsibility for managing the community and ensuring that it runs smoothly. The time commitment for each organizer may be around 0.1 FTE (Full-Time Equivalent) per organizer, depending on the size and scope of the community.\nSecuring funding can be a challenge, but there are resources available to help. In the Netherlands, there are several Open Science Communities that support initiatives like Programming Cafes. Consider reaching out to these programs (a partial list can be found here) to see if they would be interested in supporting your community. You can also explore crowdfunding options, ask your department head for budget allocation, or look for sponsorships from organizations that are aligned with your community’s goals.\nOrganized internal communication is critical to the success of any community. It’s important to have a clear and effective system for communication among organizers, including regular meetings and status updates. Consider using tools like GitHub project boards to track progress and assign tasks. It’s easy to create a template for monthly meetings, for example, and share a checklist of tasks that need to be completed for each monthly meeting.\nWhen it comes to planning community meetings, it’s important to stay organized and keep everyone informed. Make sure to have a clear plan for each event, and consider whether there will be a theme, who will be giving a presentation, and if you will be offering food or drinks. Create a schedule of events that can be published online and advertised ahead of time, and make sure to stick to it.\nIn addition, there are many technologies and tools available that can help you manage your community more effectively. For example, you can use Slack or Discord to communicate with members, create a website with GitHub pages to share resources and information, and use social media platforms like Twitter to promote your community and attract new members.\nIn conclusion, building and sustaining a community around learning how to program in R requires a dedicated team of organizers, clear communication, effective event planning, and access to resources like funding. By relying on a core team of organizers to make key decisions and create an overarching vision, you can create a thriving community that supports and inspires each other."
+    "section": "2.1 Funding opportunities",
+    "text": "2.1 Funding opportunities\nSecuring funding can be a challenge, but there are resources available to help. In the Netherlands, there are several Open Science Communities that support initiatives like Programming Cafes. Consider reaching out to these programs (a partial list can be found here) to see if they would be interested in supporting your community. You can also explore crowdfunding options, ask your department head for budget allocation, or look for sponsorships from organizations that are aligned with your community’s goals."
+  },
+  {
+    "objectID": "organization.html#internal-communication",
+    "href": "organization.html#internal-communication",
+    "title": "2  Organization",
+    "section": "2.2 Internal communication",
+    "text": "2.2 Internal communication\nOrganized internal communication is critical to the success of any community. It’s important to have a clear and effective system for communication among organizers, including regular meetings and status updates. Consider using tools like GitHub project boards to track progress and assign tasks. It’s easy to create a template for monthly meetings, for example, and share a checklist of tasks that need to be completed for each monthly meeting."
+  },
+  {
+    "objectID": "organization.html#considerations-for-meeting-planning",
+    "href": "organization.html#considerations-for-meeting-planning",
+    "title": "2  Organization",
+    "section": "2.3 Considerations for meeting planning",
+    "text": "2.3 Considerations for meeting planning\nWhen it comes to planning community meetings, it’s important to stay organized and keep everyone informed. Make sure to have a clear plan for each event, and consider whether there will be a theme, who will be giving a presentation, and if you will be offering food or drinks. Create a schedule of events that can be published online and advertised ahead of time, and make sure to stick to it."
+  },
+  {
+    "objectID": "organization.html#reaching-your-audience",
+    "href": "organization.html#reaching-your-audience",
+    "title": "2  Organization",
+    "section": "2.4 Reaching your audience",
+    "text": "2.4 Reaching your audience\nThere are many technologies and tools available that can help you manage your community more effectively. For example, you can use Slack or Discord to communicate with members, create a website with GitHub pages to share resources and information, and use social media platforms like Twitter to promote your community and attract new members.\nIn conclusion, building and sustaining a community around learning how to program in R requires a dedicated team of organizers, clear communication, effective event planning, and access to resources like funding. By relying on a core team of organizers to make key decisions and create an overarching vision, you can create a thriving community that supports and inspires each other."
   },
   {
     "objectID": "logistics.html",
@@ -49,11 +70,46 @@
     "text": "4.1 Presentation Component\nAt CAFE, we believe that knowledge-sharing is key to fostering a supportive and collaborative community. That’s why we dedicate the first 30-45 minutes of each meetup to a short presentation on a related programming topic. These presentations can be given by an expert in the field or by someone from within the CAFE community who has knowledge to share.\n\n4.1.1 Benefits of presentations\nThe presentation component of CAFE serves several important purposes. First and foremost, it provides a platform for experts and community members to share their knowledge and insights on programming-related topics. This not only helps to deepen the knowledge and skills of individual community members, but it also promotes collaboration and mutual support among members of the CAFE community.\nSecondly, the presentation component helps to keep the CAFE community up-to-date on the latest trends, tools, and techniques in programming. By staying abreast of new developments in the field, community members can continue to grow and expand their skills, and can also explore new research opportunities.\nFinally, the presentation component is a great way to showcase the diverse range of interests and expertise within the CAFE community. By providing a platform for community members to share their knowledge and insights, we hope to foster a sense of pride and ownership within the community, and to encourage more community members to get involved and share their skills.\n\n\n4.1.2 Format of presentations\nThe format of the presentations will vary depending on the presenter and the topic being discussed. However, in general, presentations will be structured as a short talk followed by a Q&A session. This will give community members the opportunity to ask questions, clarify any points of confusion, and engage in a dialogue with the presenter.\n\n\n4.1.3 Topics covered\nThe topics covered in the presentations will also vary depending on the interests and needs of the community. Some examples of potential presentation topics might include:\n\nIntroduction to Python/R/MATLAB\nData visualization techniques\nMachine learning and artificial intelligence\nBest practices for coding and software development\nTips and tricks for debugging and troubleshooting\n\nBy covering a diverse range of topics, we hope to provide valuable resources and knowledge to community members of all skill levels and interests.\nOverall, the presentation component of CAFE is a key feature of the community, providing valuable resources, knowledge, and opportunities for community members to learn, grow, and connect with others who share their interests in programming."
   },
   {
-    "objectID": "community.html",
-    "href": "community.html",
+    "objectID": "community.html#commmuication",
+    "href": "community.html#commmuication",
     "title": "5  Community Building",
-    "section": "",
-    "text": "Programming can be a daunting task, especially when you’re just starting out, but it doesn’t have to be a lonely one. By building a community of learners, you can support each other, learn from each other, and grow together.\nFirst and foremost, effective communication is key to building and sustaining a learning community. Make sure that everyone has a way to communicate with each other, whether it be through an online forum, a social media group, or a messaging app. Encourage members to share their experiences, ask questions, and offer advice. Consider setting up a regular newsletter or email list along with a list of upcoming meetings on your website to keep everyone informed about upcoming events and opportunities.\nWhen it comes to registrations for events, make sure that the process is simple and easy to understand. Use a platform that is user-friendly and accessible, such as Eventbrite or Google Forms, and make sure that people know how to sign up.\nIn-person meetings can be a great way to build connections and foster a sense of community. Ice-breakers can be a great way to get people talking and help everyone feel more comfortable. Some good ice-breakers include “two truths and a lie”, “speed dating”, and “name games”. Make sure to create an inclusive environment where everyone feels welcome and valued.\nIt’s important to make sure that everyone feels included in the community. Consider assigning mentors or buddies to new members to help them get acclimated. Encourage members to share their experiences and to help each other out. Create opportunities for people to connect and collaborate, such as hackathons or study groups.\nTo help community members stay connected, make sure to provide ongoing opportunities for engagement. Host regular meetups or workshops, and encourage members to share their projects and successes. Consider setting up a Slack channel or other messaging platform to facilitate ongoing conversations and collaborations.\nFinally, swag can be a fun and rewarding way to recognize and incentivize community members. Consider giving out stickers, t-shirts, or other branded merchandise to show your appreciation. Not only does it make people feel valued, but it can also help to spread the word about your community.\nIn conclusion, building and sustaining a learning community takes effort and dedication, but the rewards are worth it. By fostering effective communication, creating a welcoming and inclusive environment, and providing ongoing opportunities for engagement, you can create a community that supports and inspires each other."
+    "section": "5.1 Commmuication",
+    "text": "5.1 Commmuication\nFirst and foremost, effective communication is key to building and sustaining a learning community. Make sure that everyone has a way to communicate with each other, whether it be through an online forum, a social media group, or a messaging app. Encourage members to share their experiences, ask questions, and offer advice. Consider setting up a regular newsletter or email list along with a list of upcoming meetings on your website to keep everyone informed about upcoming events and opportunities."
+  },
+  {
+    "objectID": "community.html#event-registration",
+    "href": "community.html#event-registration",
+    "title": "5  Community Building",
+    "section": "5.2 Event registration",
+    "text": "5.2 Event registration\nWhen it comes to registrations for events, make sure that the process is simple and easy to understand. Use a platform that is user-friendly and accessible, such as Eventbrite or Google Forms, and make sure that people know how to sign up."
+  },
+  {
+    "objectID": "community.html#meetings",
+    "href": "community.html#meetings",
+    "title": "5  Community Building",
+    "section": "5.3 Meetings",
+    "text": "5.3 Meetings\nWhether you choose to meet online, in person, or hybrid, a consistent schedule of meetups can be a great way to build connections and foster a sense of community. Ice-breakers can be a great way to get people talking and help everyone feel more comfortable. Some good ice-breakers include “two truths and a lie”, “speed dating”, and “name games”. Make sure to create an inclusive environment where everyone feels welcome and valued."
+  },
+  {
+    "objectID": "community.html#creating-an-inclusive-atmosphere",
+    "href": "community.html#creating-an-inclusive-atmosphere",
+    "title": "5  Community Building",
+    "section": "5.4 Creating an inclusive atmosphere",
+    "text": "5.4 Creating an inclusive atmosphere\nIt’s important to make sure that everyone feels included in the community. Consider assigning mentors or buddies to new members to help them get acclimated. Encourage members to share their experiences and to help each other out. Create opportunities for people to connect and collaborate, such as hackathons or study groups."
+  },
+  {
+    "objectID": "community.html#creating-and-maintaining-connections",
+    "href": "community.html#creating-and-maintaining-connections",
+    "title": "5  Community Building",
+    "section": "5.5 Creating and maintaining connections",
+    "text": "5.5 Creating and maintaining connections\nTo help community members stay connected, make sure to provide ongoing opportunities for engagement. Host regular meetups or workshops, and encourage members to share their projects and successes. Consider setting up a Slack channel or other messaging platform to facilitate ongoing conversations and collaborations."
+  },
+  {
+    "objectID": "community.html#swag",
+    "href": "community.html#swag",
+    "title": "5  Community Building",
+    "section": "5.6 Swag!",
+    "text": "5.6 Swag!\nFinally, swag can be a fun and rewarding way to recognize and incentivize community members. Consider giving out stickers, t-shirts, or other branded merchandise to show your appreciation. Not only does it make people feel valued, but it can also help to spread the word about your community.\nIn conclusion, building and sustaining a learning community takes effort and dedication, but the rewards are worth it. By fostering effective communication, creating a welcoming and inclusive environment, and providing ongoing opportunities for engagement, you can create a community that supports and inspires each other."
   },
   {
     "objectID": "summary.html",
@@ -63,10 +119,31 @@
     "text": "In summary, this book has no content whatsoever."
   },
   {
-    "objectID": "tu-delft.html",
-    "href": "tu-delft.html",
+    "objectID": "tu-delft.html#who-we-are",
+    "href": "tu-delft.html#who-we-are",
     "title": "9  TU Delft: R Cafe",
-    "section": "",
-    "text": "We’re a group of R enthusiasts from across the TU Delft community who meet monthly to discuss questions from the very broad Why should I use R? to the hyper-specific Why is my code not working?! Our initiative has been running monthly meetings since November 2021 and was inspired by Utrecht University’s Programming Café.\nThe R Café is open to anyone who works in R or is interested in learning. No prior experience with R is necessary - all are welcome! Many of our members have recently completed the Data Carpentry workshop and are looking for a space to continue practicing R skills with others. You can also join if you’ve got plenty of R experience and want to share some awesome tips and tricks (e.g., about an R package, type of analysis, or visualization) with others.\nTogether we make up a supportive community of practice for researchers to share knowledge and learn with each other in an open and informal setting.\nOur monthly meetings usually have a theme which we can touch upon by brief presentations by one or more of our members, exercises for us to work through, a group discussion, or some combination.\nWe take a hands-on approach to work through problems and always have RStudio open for live coding. Because we know our audience, we offer a unique combination of ☕ and 🍕.\nThe R Cafe is an initiative of the TU Delft Library Research Data Services Team and the Digital Competence Centre. The organizers are Ashley Cryan and Aleksandra Wilczynska. For questions or more information, please contact rcafe-lib@tudelft.nl. You can also find us on GitHub."
+    "section": "9.1 Who we are",
+    "text": "9.1 Who we are\nWe’re a group of R enthusiasts from across the TU Delft community who meet monthly to discuss questions from the very broad, “Why should I use R?” to the hyper-specific, “Why is my code not working?!”\nOur initiative has been running monthly meetings since November 2021 and was inspired by Utrecht University’s Programming Café."
+  },
+  {
+    "objectID": "tu-delft.html#who-can-join",
+    "href": "tu-delft.html#who-can-join",
+    "title": "9  TU Delft: R Cafe",
+    "section": "9.2 Who can join",
+    "text": "9.2 Who can join\nThe R Café is open to anyone who works in R or is interested in learning. No prior experience with R is necessary - all are welcome! Many of our members have recently completed the Data Carpentry workshop and are looking for a space to continue practicing R skills with others. You can also join if you’ve got plenty of R experience and want to share some awesome tips and tricks (e.g., about an R package, type of analysis, or visualization) with others.\nTogether we make up a supportive community of practice for researchers to share knowledge and learn with each other in an open and informal setting."
+  },
+  {
+    "objectID": "tu-delft.html#community-meetings",
+    "href": "tu-delft.html#community-meetings",
+    "title": "9  TU Delft: R Cafe",
+    "section": "9.3 Community meetings",
+    "text": "9.3 Community meetings\nOur monthly meetings usually have a theme which we can touch upon by brief presentations by one or more of our members, exercises for us to work through, a group discussion, or some combination.\nWe take a hands-on approach to work through problems and always have RStudio open for live coding. Because we know our audience, we offer a unique combination of ☕ and 🍕."
+  },
+  {
+    "objectID": "tu-delft.html#more-information",
+    "href": "tu-delft.html#more-information",
+    "title": "9  TU Delft: R Cafe",
+    "section": "9.4 More information?",
+    "text": "9.4 More information?\nThe R Cafe is an initiative of the TU Delft Library Research Data Services Team and the Digital Competence Centre. The organizers are Ashley Cryan and Aleksandra Wilczynska. For questions or more information, please contact rcafe-lib@tudelft.nl. You can also find us on GitHub and via our website."
   }
 ]
