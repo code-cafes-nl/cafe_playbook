@@ -1,16 +1,11 @@
 # Format
+There are several considerations for the format of the programming CAFE. These include: Frequency, Timing, Agenda, Topics. These aspects may differ depending on the size of the community, the capacity of the organizers, and the needs of the community.
 
-The agenda/program
+## Frequency and Timing
+We have successful experiences of running montly and bi-weekly CAFE events. They can be planned as lunch meetings, at the end of the working day or (partly) after office hours. There are pro's and con's to each of these options. You may initially start with something that works for the organizers and the initial community, and then adjust based on the needs of the community as the community grows.
 
-- schedule and timings between session components
-- presentations
-- choosing a topic
-- materials
-
-
-
-## Presentation Component
-At CAFE, we believe that knowledge-sharing is key to fostering a supportive and collaborative community. That's why we dedicate the first 30-45 minutes of each meetup to a short presentation on a related programming topic. These presentations can be given by an expert in the field or by someone from within the CAFE community who has knowledge to share.
+## Presentation component
+At CAFE, we believe that knowledge-sharing is key to fostering a supportive and collaborative community. That's why we dedicate at least some part of the events on a presentation component on a programming related topic. These presentations can be given by an expert in the field or by someone from within the CAFE community who has knowledge to share.
 
 ### Benefits of presentations
 The presentation component of CAFE serves several important purposes. First and foremost, it provides a platform for experts and community members to share their knowledge and insights on programming-related topics. This not only helps to deepen the knowledge and skills of individual community members, but it also promotes collaboration and mutual support among members of the CAFE community.
@@ -33,4 +28,11 @@ The topics covered in the presentations will also vary depending on the interest
 
 By covering a diverse range of topics, we hope to provide valuable resources and knowledge to community members of all skill levels and interests.
 
-Overall, the presentation component of CAFE is a key feature of the community, providing valuable resources, knowledge, and opportunities for community members to learn, grow, and connect with others who share their interests in programming.
+## Coding component
+We also schedule time for coding during the CAFE events. This is a great opportunity for community members to work on their own projects, collaborate with others, and ask questions about programming-related issues. We also allow participants to code during the presentation component of the event if a presentation is not relevant to their interests or needs. In this way the event is always open for a diverse audience with different interests and skill levels, which is valuable for interaction and knowledge sharing in the community.
+
+## Promoting interaction 
+Community organizers can promote interaction by keeping an informal overview of the community members (and their projects, questions and skills) and facilitate connections. Snacks and drinks are a great way to promote interaction and collaboration among community members. This helps to create a more relaxed and informal atmosphere where connections are made more easily.
+
+## Exercises
+Exercises provide a great opportunity for community members to practice their programming skills and to learn new techniques. They also help to reinforce the concepts covered in the presentations and to ensure that community members are able to apply what they have learned in a practical way. Besides, exercises can be a great way to get community members to interact with each other and to collaborate. 
