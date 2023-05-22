@@ -1,6 +1,7 @@
 # Utrecht University: Programming Café
 
 **Website:** [https://www.uu.nl/en/research/research-data-management/walk-in-hours-workshops/programming-cafe](https://www.uu.nl/en/research/research-data-management/walk-in-hours-workshops/programming-cafe)
+
 **Github:** [UtrechtUniversity/programming-cafe](https://github.com/UtrechtUniversity/programming-cafe)
 
 ## Who we are
