@@ -1,6 +1,11 @@
 # Logistics
 
-- frequency
-- best dates/times
-- food/drinks
-- room setup
+## Frequency
+
+## Best dates & times
+
+
+## Food & drinks
+
+
+## Room setup
