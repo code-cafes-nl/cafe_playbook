@@ -1,6 +1,6 @@
 # TU Delft: R Café
 
-**Website:** https://delft-rcafe.github.io/home/Index.html
+**Website:** [https://delft-rcafe.github.io/home/Index.html](https://delft-rcafe.github.io/home/Index.html)
 
 ## Who we are
 We’re a group of R enthusiasts from across the TU Delft community who meet monthly to discuss questions from the very broad, "Why should I use R?" to the hyper-specific, "Why is my code not working?!" 
