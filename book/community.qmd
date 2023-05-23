@@ -1,4 +1,4 @@
-# Community Building
+# Community Building {.unnumbered}
 
 Programming can be a daunting task, especially when you're just starting out, but it doesn't have to be a lonely one. By building a community of learners, you can support each other, learn from each other, and grow together.
 

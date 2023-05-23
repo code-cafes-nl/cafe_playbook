@@ -1,4 +1,4 @@
-# Logistics
+# Logistics {.unnumbered}
 
 Organizing a coding cafe requires some logistics, as for every event. However, coding cafes may come with special requirements that you need to take into account. The key message of this chapter is:
 

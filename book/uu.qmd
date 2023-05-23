@@ -1,16 +1,25 @@
-# Utrecht University: Programming Café
+# Utrecht University: Programming Café {.unnumbered}
+
+_Do you want to improve your programming skills, ask questions related to programming, or meet other researchers? Pick up your laptop and come to the Programming Café!_
 
 **Website:** [https://www.uu.nl/en/research/research-data-management/walk-in-hours-workshops/programming-cafe](https://www.uu.nl/en/research/research-data-management/walk-in-hours-workshops/programming-cafe)
 
 **Github:** [UtrechtUniversity/programming-cafe](https://github.com/UtrechtUniversity/programming-cafe)
 
 ## Who we are
-Do you want to improve your programming skills, ask questions related to programming, or meet other researchers? Pick up your laptop and come to the Programming Café! During this informal meet-up, we will share knowledge about programming through short presentations and also help each other with challenges in working with code and data. The Programming Café takes place on a monthly basis, and it will last about two hours (usually towards the end of the workday). Registration is not required. See the GitHub page [UtrechtUniversity/programming-cafe](https://github.com/UtrechtUniversity/programming-cafe) for upcoming events. 
 
-The Programming Café is a ‘relaunch’ of the popular R Café external link community event that used to take place before the coronavirus outbreak. We are happy to broaden the event to include programming languages other than R.
+The Programming Cafe at Utrecht University is an informal meet-up, where we share knowledge about programming through short presentations/demos and also help each other with challenges in working with code and data. 
+
+The Programming Café is a ‘relaunch’ of the popular R Café external link community event that used to take place before the coronavirus outbreak. We were happy to broaden the event to include programming languages other than R.
 
 ## Who can join
-Everyone is welcome at the Programming Café. We expect most attendees will be R or Python users, but users of other programming languages and software are invited as well. You can be of any skill level and at any stage in working with your code and data. You can bring your programming problems to work on or discuss with the attendees. Even if you do not have an issue, you’re welcome at the Café - just to work on your code or try out the exercises that have been prepared for you.
+
+Everyone is welcome at the Programming Café. We expect most attendees will be R or Python users, but users of other programming languages and software are invited as well. Attendees can be of any skill level and at any stage in working with code and data. Attendees can bring your programming problems to work on or discuss with the others. Even if you do not have an issue, you’re welcome at the Café - just to work on code or try out the exercises that have been prepared.
+
+## Community Meetings
+
+The Programming Café takes place on a monthly basis, and it will last about two hours (usually towards the end of the workday). Registration is not required. See the GitHub page [UtrechtUniversity/programming-cafe](https://github.com/UtrechtUniversity/programming-cafe) for more information. 
 
 ## More information? 
-To stay up to date on the planning and themes, please keep an eye on the website of [Research Data Management Support](https://www.uu.nl/en/research/research-data-management). Or subscribe the newsletter to stay informed.
+
+The Programming Cage is an initiative of [Research Data Management Support](https://www.uu.nl/en/research/research-data-management) at Utrecht University. The current organizers are Neha Moopen & Jelle Treep. For more information, you can contact the organizers via info.rdm(at)uu.nl or keep up with the GitHub page (and eventual website): [UtrechtUniversity/programming-cafe](https://github.com/UtrechtUniversity/programming-cafe)  

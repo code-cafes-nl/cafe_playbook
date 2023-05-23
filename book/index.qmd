@@ -1,3 +1,7 @@
 # Welcome {.unnumbered}
 
-Welcome to the CAFE Playbook!
+Welcome to the CAFE Playbook! We have put together this guide to show how you can start, grow, and sustain a programming community at your institute with the CAFE (Code Along, Feel Empowered) method.
+
+The playbook contains strategies and tools based on our experiences with running programming CAFEs at different levels of maturity. We hope the playbook will help start your own programming communities or CAFEs, without having to figure everything out from scratch.
+
+This is a living document. Do stay in touch and share your feedback and experiences, so we can continue to develop the playbook as we go!

@@ -1,7 +1,8 @@
-# Vrije Universiteit Amsterdam: Bytes & Bites
+# Vrije Universiteit Amsterdam: Bytes & Bites {.unnumbered}
+
+_Do you want to meet other researchers, improve your programming skills, or ask questions related to programming? Pick up your laptop and come to the first edition of the Bytes & Bites._
 
 **Website:** [https://ubvu.github.io/bytes-and-bites/](https://ubvu.github.io/bytes-and-bites/)
-
 
 ## Who we are
 
@@ -11,19 +12,15 @@ Bytes & Bites has been running monthly meetings since April 2023 and was inspire
 
 With Bytes & Bites our dream of an inclusive software community event became a reality.
 
-
 ## Who can join
 
 Bytes & Bites is for you - no matter if you have just started to print <hello world> or rule by code; if you are team Python or R - Bytes & Bites is for everyone interested in programming tools and computational research. Bytes & Bites is an event series for the broader VU community and friends who would like to work on their programming skills. Come, join, and find out who is working on what project in and outside your usual community,or kick-off new collaborations. You can also work with your friends and colleagues on your scripts, solve coding puzzles, or discuss new computational challenges and developments in your field.
-
 
 ## Community meetings
   
 We organize Bytes & Bites as monthly peer support events for researchers and students who are interested in coding. You can find us once a month on a Tuesday or Thursday afternoon (16:00 - 18:00) at the VU in Amsterdam. That does not mean that you have to spend two hours coding, everyone is welcome to walk-in and walk-out at any time and follow their interests. We only organize the room, 🍕 (!) and guest presenters for changing themes. The program of each session varies since Bytes & Bites is still pretty young and we have to figure out together with you what works and what does not. 
   
 However, we guarantee that you will always have enough time for the truly important things: chats and pizza!
-
-  
 
 ## More information? 
   

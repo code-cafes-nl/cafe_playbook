@@ -1,4 +1,4 @@
-# Organization
+# Organization {.unnumbered}
 
 Building and sustaining a community around learning how to program in R relies on a core team of organizers who can take responsibility for managing the community and ensuring that it runs smoothly. The time commitment for each organizer may be around 0.1 FTE (Full-Time Equivalent) per organizer, depending on the size and scope of the community.
 
