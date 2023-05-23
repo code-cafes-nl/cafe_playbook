@@ -4,6 +4,10 @@ _Do you want to meet other researchers, improve your programming skills, or ask 
 
 **Website:** [https://ubvu.github.io/bytes-and-bites/](https://ubvu.github.io/bytes-and-bites/)
 
+![vu-cafe-1](images/vu-cafe-1.jpg)
+
+![vu-cafe-2](images/vu-cafe-2.jpg)
+
 ## Who we are
 
 We are newcomers in the landscape of programming cafes in the Netherlands, but determined to establish *Bytes & Bites* as a constant in everyone's calendars. 

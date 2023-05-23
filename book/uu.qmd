@@ -6,6 +6,10 @@ _Do you want to improve your programming skills, ask questions related to progra
 
 **Github:** [UtrechtUniversity/programming-cafe](https://github.com/UtrechtUniversity/programming-cafe)
 
+![uu-cafe-1](images/uu-cafe-1.png)
+
+![uu-cafe-2](images/uu-cafe-2.png)
+
 ## Who we are
 
 The Programming Cafe at Utrecht University is an informal meet-up, where we share knowledge about programming through short presentations/demos and also help each other with challenges in working with code and data. 

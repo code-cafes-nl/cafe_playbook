@@ -4,6 +4,10 @@ _Do you want to build your skills in the programming language R, write R code wi
 
 **Website:** [https://delft-rcafe.github.io/home/Index.html](https://delft-rcafe.github.io/home/Index.html)
 
+![tu-delft-cafe](images/tu-delft-cafe-1.jpg)
+
+![tu-delft-cafe](images/tu-delft-cafe-2.jpg)
+
 ## Who we are
 
 We’re a group of R enthusiasts from across the TU Delft community who meet monthly to discuss questions from the very broad, "Why should I use R?" to the hyper-specific, "Why is my code not working?!" 

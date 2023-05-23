@@ -4,7 +4,7 @@
 
 ## What is a programming CAFE?
 
-A programming CAFE (Code Along, Feel Empowered) is a community event that brings together programmers - both researchers and research supporters - to share knowledge about knowledge about programming and learn with each other in an open and informal setting.
+A programming CAFE (Code Along, Feel Empowered) is a community event that brings together programmers - both researchers and research supporters - to share knowledge about programming and learn with each other in an open and informal setting.
 
 ## What types of CAFEs can you think of?
 
