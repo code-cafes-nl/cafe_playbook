@@ -5,6 +5,6 @@ In summary, there are a lot of things to consider. However, we hope that this pl
 - know your audience;
 - know the parameters that you can work with;
 - reach out for help;
-- learn from desasters.
+- learn from disasters.
 
 This is a living document. Please make sure to stay in touch with us and help us to make this playbook more suitable for you.
