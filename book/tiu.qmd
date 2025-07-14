@@ -1,0 +1,51 @@
+# Tilburg University: Coding Café {.unnumbered}
+
+*Do you want to learn how to write better code? Finally learn version control? Make your code more robust? Figure out how to smoothly write software within teams? Then the Coding Café might just be your cup of tea* ☕*!*
+
+Our Coding Café is an informal meetup where researchers get together and talk research software! As a community, we will exchange our experiences, challenges, and best practices. The Coding Café is an established format in universities around the country. Inspired by its success, we decided to host our own sessions as well.
+
+And what would be a coding session without a good snack? To keep all your coding brain cells fueled, we will provide a selection of freshly delivered pizza 🍕.
+
+**Our GitLab Group:** <https://gitlab.uvt.nl/coding-caf/gitlab-profile>
+
+![tiu-cafe](images/tiu-cafe.jpg)
+
+## Setup
+
+The Tilburg University Coding Café is a local implementation of the CAFE playbook. Our sessions have one coding concept that is put in the spotlight. You will learn all you need to get started in a short presentation. After that, you get to practice what you've learned hands-on!
+
+Participants are also welcome to stray off and find some peers to take a look at your own code. It's all FAIR game! For example, they can bring their own programming questions, conundrums, and pesky bugs to discuss and (hopefully) resolve with the help of the community!
+
+## Quick info
+
+**Type of instruction**: Community lunch meetup
+
+**Time**: 11:00 - 13:00 hrs
+
+**Preparation**: Bring your own laptop
+
+## Who can attend?
+
+The Coding Café is open to all researchers (including PhDs), support staff and student assistants of Tilburg University. Whether you have never written a line of code in your life or have published a dozen packages on CRAN or PyPI, everyone is welcome.
+
+## Materials
+
+The materials of the invited talks can be found on [GitLab](https://gitlab.uvt.nl/coding-caf/gitlab-profile) where we collect the materials from the invited talks of past sessions. The licenses vary per contribution and can be found there.
+
+## Funding
+
+From July 2024 to August 2025, the Tilburg University Coding Café has been funded by the Netherlands eScienceCenter within their Fellowship program. The invited talks were held by amazing engineers and teachers from there as well! Thanks so much for making this possible!
+
+## Lessons Learned & Future Recommendations
+
+Several operational insights emerged over the course of the Coding Café:
+
+1.  Prioritize general and beginner-friendly topics: Accessible topics enhance broad participation, helping newcomers to engage meaningfully with fundamental research software practices.
+
+2.  Strategic catering timing improves engagement: Shifting catering to the mid-point of events incentivized participation during the open-collaboration portion and improved physical momentum in the room. For this, we changed the times from 12:00–14:00 to 11:00–13:00, with the pizza arriving at the mid-point of the meetup.
+
+3.  Role of support staff in moderating the hands-on session: Moderation of the open collaboration time is essential and a good ratio of support staff to participants helps with that.
+
+4.  Facilitate open collaboration with structured prompts: Attendees are often hesitant to engage with each other during the collaborative sessions. As of summer 2025, the Café will pilot prompt cards from the "Open Science Against Humanity" GHOST game, providing structured yet informal conversation starters while maintaining session flexibility. The game is freely available and can be ordered through GHOST’s webpage. GitLab group where we collect the materials from the invited talks of past sessions. The licenses vary per contribution and can be found there.
+
+5.  Leverage regular attendees ("champions") as community anchors: Attendance fluctuated across sessions, with most attendants coming to only one session. Regular participants, however, often demonstrated greater engagement and willingness to provide valuable feedback. Future Coding Cafés will aim to more actively involve these community members.
