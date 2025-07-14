@@ -4,265 +4,457 @@
     "href": "index.html",
     "title": "CAFE Playbook",
     "section": "",
-    "text": "Welcome\nWelcome to the CAFE Playbook! We have put together this guide to show how you can start, grow, and sustain a programming community at your institute with the CAFE (Code Along, Feel Empowered) method.\n\n\n\nCAFE stickers\n\n\nThe playbook contains strategies and tools based on our experiences with running programming CAFEs at different levels of maturity. We hope the playbook will help start your own programming communities or CAFEs, without having to figure everything out from scratch.\nThis is a living document. Do stay in touch and share your feedback and experiences, so we can continue to develop the playbook as we go!"
+    "text": "Welcome\nWelcome to the CAFE Playbook! We have put together this guide to show how you can start, grow, and sustain a programming community at your institute with the CAFE (Code Along, Feel Empowered) method.\n\n\n\nCAFE stickers\n\n\nThe playbook contains strategies and tools based on our experiences with running programming CAFEs at different levels of maturity. We hope the playbook will help start your own programming communities or CAFEs, without having to figure everything out from scratch.\nThis is a living document. Do stay in touch and share your feedback and experiences, so we can continue to develop the playbook as we go!",
+    "crumbs": [
+      "Welcome"
+    ]
   },
   {
-    "objectID": "intro.html#what-is-a-programming-cafe",
-    "href": "intro.html#what-is-a-programming-cafe",
+    "objectID": "intro.html",
+    "href": "intro.html",
     "title": "Introduction",
-    "section": "What is a programming CAFE?",
-    "text": "What is a programming CAFE?\nA programming CAFE (Code Along, Feel Empowered) is a community event that brings together programmers - both researchers and research supporters - to share knowledge about programming and learn with each other in an open and informal setting."
+    "section": "",
+    "text": "What is a programming CAFE?\nA programming CAFE (Code Along, Feel Empowered) is a community event that brings together programmers - both researchers and research supporters - to share knowledge about programming and learn with each other in an open and informal setting.",
+    "crumbs": [
+      "Introduction"
+    ]
   },
   {
     "objectID": "intro.html#what-types-of-cafes-can-you-think-of",
     "href": "intro.html#what-types-of-cafes-can-you-think-of",
     "title": "Introduction",
     "section": "What types of CAFEs can you think of?",
-    "text": "What types of CAFEs can you think of?\nA programming CAFE will vary depending on the needs and interests of the community. Here are some things to consider when defining the focus of your programming CAFE:\n1. Programming languages\nA programming CAFE can be focused on a single programming language, cater to multiple languages, or be language-independent. For example, you might start a CAFE that focuses exclusively on Python, or you might create a more broader CAFE that covers several programming languages such as Python, R, and MATLAB. The choice of programming languages will depend on the interests and needs of the community.\n2. Skill level\nAnother factor to consider when defining the focus of your programming CAFE is the skill level of potential participants. You might start a CAFE tailored to beginners, or you might create a more advanced CAFE that caters to experienced programmers. Alternatively, you might choose to create a CAFE that is open to researchers of all skill levels, with a focus on collaboration and knowledge-sharing.\n3. Research applications\nFinally, you might choose to define the focus of your programming CAFE based on specific research applications. For example, you might start a CAFE focused on programming for analyzing biological data or one that is dedicated to programming for social sciences research. The focus on research applications will depend on the interests and needs of the community."
+    "text": "What types of CAFEs can you think of?\nA programming CAFE will vary depending on the needs and interests of the community. Here are some things to consider when defining the focus of your programming CAFE:\n1. Programming languages\nA programming CAFE can be focused on a single programming language, cater to multiple languages, or be language-independent. For example, you might start a CAFE that focuses exclusively on Python, or you might create a more broader CAFE that covers several programming languages such as Python, R, and MATLAB. The choice of programming languages will depend on the interests and needs of the community.\n2. Skill level\nAnother factor to consider when defining the focus of your programming CAFE is the skill level of potential participants. You might start a CAFE tailored to beginners, or you might create a more advanced CAFE that caters to experienced programmers. Alternatively, you might choose to create a CAFE that is open to researchers of all skill levels, with a focus on collaboration and knowledge-sharing.\n3. Research applications\nFinally, you might choose to define the focus of your programming CAFE based on specific research applications. For example, you might start a CAFE focused on programming for analyzing biological data or one that is dedicated to programming for social sciences research. The focus on research applications will depend on the interests and needs of the community.",
+    "crumbs": [
+      "Introduction"
+    ]
   },
   {
     "objectID": "intro.html#why-would-you-want-a-programming-cafe-or-community-at-your-university",
     "href": "intro.html#why-would-you-want-a-programming-cafe-or-community-at-your-university",
     "title": "Introduction",
     "section": "Why would you want a programming CAFE or community at your university?",
-    "text": "Why would you want a programming CAFE or community at your university?\nProgramming has become an essential skill for many fields, including research. However, learning to code can be a challenging and sometimes isolating experience, especially for beginners. That’s where a programming CAFE or community can make a significant difference. Here are some reasons why you might want to consider starting a programming community in your university:\n1. Build a supportive community\nLearning to code can be a frustrating and challenging experience, especially when you’re stuck on a problem or error. Having a community of fellow programmers to turn to for support, advice, and encouragement can make all the difference. A programming community like CAFE can provide a supportive environment where researchers can connect with others who share their passion for programming and are eager to help them succeed.\n2. Foster collaboration and knowledge-sharing\nProgramming is a collaborative activity, and having a community of programmers can help foster collaboration and knowledge-sharing. By working together on projects, sharing tips and tricks, and discussing best practices, researchers can learn from each other and grow their skills faster than they would working alone.\n3. Provide access to resources and opportunities\nA programming community like CAFE can also provide access to resources and opportunities that might otherwise be difficult to find. For example, members of the community might share job or internship opportunities, recommend useful tools and libraries, or organize coding workshops and hackathons.\n4. Promote diversity and inclusion\nBy actively promoting diversity and inclusion, a programming community like CAFE can help create a more welcoming and supportive environment for all researchers, regardless of their background or level of experience."
+    "text": "Why would you want a programming CAFE or community at your university?\nProgramming has become an essential skill for many fields, including research. However, learning to code can be a challenging and sometimes isolating experience, especially for beginners. That’s where a programming CAFE or community can make a significant difference. Here are some reasons why you might want to consider starting a programming community in your university:\n1. Build a supportive community\nLearning to code can be a frustrating and challenging experience, especially when you’re stuck on a problem or error. Having a community of fellow programmers to turn to for support, advice, and encouragement can make all the difference. A programming community like CAFE can provide a supportive environment where researchers can connect with others who share their passion for programming and are eager to help them succeed.\n2. Foster collaboration and knowledge-sharing\nProgramming is a collaborative activity, and having a community of programmers can help foster collaboration and knowledge-sharing. By working together on projects, sharing tips and tricks, and discussing best practices, researchers can learn from each other and grow their skills faster than they would working alone.\n3. Provide access to resources and opportunities\nA programming community like CAFE can also provide access to resources and opportunities that might otherwise be difficult to find. For example, members of the community might share job or internship opportunities, recommend useful tools and libraries, or organize coding workshops and hackathons.\n4. Promote diversity and inclusion\nBy actively promoting diversity and inclusion, a programming community like CAFE can help create a more welcoming and supportive environment for all researchers, regardless of their background or level of experience.",
+    "crumbs": [
+      "Introduction"
+    ]
   },
   {
     "objectID": "intro.html#who-is-it-for",
     "href": "intro.html#who-is-it-for",
     "title": "Introduction",
     "section": "Who is it for?",
-    "text": "Who is it for?\nThe CAFE community is for researchers of all levels who are interested in programming, regardless of their field of study or level of experience. Here are some examples of personas who might benefit from participating in the community:\n1. The beginner programmer\nThe beginner programmer is just starting to learn how to code and may feel overwhelmed by the complexity of programming languages and tools. They might have a background in a non-technical field, such as the humanities or social sciences, and are interested in learning how to use programming to solve problems in their research. They might have followed a Introductory course, but get stuck as soon as they start working with their own data and therefore feel discouraged. The CAFE community can provide the beginner programmer with a supportive environment where they can connect with others who are also learning to code, ask questions, and get help when they need it.\n2. The advanced programmer\nThe advanced programmer is an experienced coder who has already developed a strong skill set in one or more programming languages. They might be looking for opportunities to share their knowledge with others, collaborate on projects, or learn about new tools, techniques or best practices related to Open Science and FAIR data and software. The CAFE community can provide the advanced programmer with a platform to share their expertise, connect with other skilled programmers, and stay up-to-date with the latest trends in the field.\n3. The interdisciplinary researcher\nThe interdisciplinary researcher comes from a field of study that traditionally has not emphasized programming, but recognizes the importance of using computational methods to answer research questions. They might have a basic understanding of programming concepts but lack the technical skills to implement them. The CAFE community can provide the interdisciplinary researcher with a supportive and collaborative environment where they can learn programming skills that are relevant to their research.\n4. The data specialist\nThe data specialist is a researcher or support staff who specializes in working with datasets. They might be looking for opportunities to collaborate with other data experts, learn about new tools and techniques, or share their knowledge with researchers and others. The CAFE community can provide the data expert with a platform to connect with other researchers who share their interests, learn from each other, and collaborate on data-driven research projects."
+    "text": "Who is it for?\nThe CAFE community is for researchers of all levels who are interested in programming, regardless of their field of study or level of experience. Here are some examples of personas who might benefit from participating in the community:\n1. The beginner programmer\nThe beginner programmer is just starting to learn how to code and may feel overwhelmed by the complexity of programming languages and tools. They might have a background in a non-technical field, such as the humanities or social sciences, and are interested in learning how to use programming to solve problems in their research. They might have followed a Introductory course, but get stuck as soon as they start working with their own data and therefore feel discouraged. The CAFE community can provide the beginner programmer with a supportive environment where they can connect with others who are also learning to code, ask questions, and get help when they need it.\n2. The advanced programmer\nThe advanced programmer is an experienced coder who has already developed a strong skill set in one or more programming languages. They might be looking for opportunities to share their knowledge with others, collaborate on projects, or learn about new tools, techniques or best practices related to Open Science and FAIR data and software. The CAFE community can provide the advanced programmer with a platform to share their expertise, connect with other skilled programmers, and stay up-to-date with the latest trends in the field.\n3. The interdisciplinary researcher\nThe interdisciplinary researcher comes from a field of study that traditionally has not emphasized programming, but recognizes the importance of using computational methods to answer research questions. They might have a basic understanding of programming concepts but lack the technical skills to implement them. The CAFE community can provide the interdisciplinary researcher with a supportive and collaborative environment where they can learn programming skills that are relevant to their research.\n4. The data specialist\nThe data specialist is a researcher or support staff who specializes in working with datasets. They might be looking for opportunities to collaborate with other data experts, learn about new tools and techniques, or share their knowledge with researchers and others. The CAFE community can provide the data expert with a platform to connect with other researchers who share their interests, learn from each other, and collaborate on data-driven research projects.",
+    "crumbs": [
+      "Introduction"
+    ]
   },
   {
     "objectID": "intro.html#conclusion",
     "href": "intro.html#conclusion",
     "title": "Introduction",
     "section": "Conclusion",
-    "text": "Conclusion\nOverall, the focus of the CAFE can vary depending on the needs and interests of the community, including the choice of programming languages, skill level and research applications. By defining the focus of your programming CAFE, you can build a community and a programming CAFE that is tailored to the needs of your community and that provides valuable resources, opportunities, and support."
+    "text": "Conclusion\nOverall, the focus of the CAFE can vary depending on the needs and interests of the community, including the choice of programming languages, skill level and research applications. By defining the focus of your programming CAFE, you can build a community and a programming CAFE that is tailored to the needs of your community and that provides valuable resources, opportunities, and support.",
+    "crumbs": [
+      "Introduction"
+    ]
   },
   {
-    "objectID": "organization.html#funding-opportunities",
-    "href": "organization.html#funding-opportunities",
+    "objectID": "organization.html",
+    "href": "organization.html",
     "title": "Organization",
-    "section": "Funding opportunities",
-    "text": "Funding opportunities\nSecuring funding can be a challenge, but there are resources available to help. In the Netherlands, there are several Open Science Communities that support initiatives like Programming Cafes. Consider reaching out to these programs (a partial list can be found here) to see if they would be interested in supporting your community. You can also explore crowdfunding options, ask your department head for budget allocation, or look for sponsorships from organizations that are aligned with your community’s goals."
+    "section": "",
+    "text": "Funding opportunities\nBuilding and sustaining a community around learning how to program in R relies on a core team of organizers who can take responsibility for managing the community and ensuring that it runs smoothly. The time commitment for each organizer may be around 0.1 FTE (Full-Time Equivalent) per organizer, depending on the size and scope of the community.\nSecuring funding can be a challenge, but there are resources available to help. In the Netherlands, there are several Open Science Communities that support initiatives like Programming Cafes. Consider reaching out to these programs (a partial list can be found here) to see if they would be interested in supporting your community. You can also explore crowdfunding options, ask your department head for budget allocation, or look for sponsorships from organizations that are aligned with your community’s goals.",
+    "crumbs": [
+      "Organization"
+    ]
   },
   {
     "objectID": "organization.html#internal-communication",
     "href": "organization.html#internal-communication",
     "title": "Organization",
     "section": "Internal communication",
-    "text": "Internal communication\nOrganized internal communication is critical to the success of any community. It’s important to have a clear and effective system for communication among organizers, including regular meetings and status updates. Consider using tools like GitHub project boards to track progress and assign tasks. It’s easy to create a template for monthly meetings, for example, and share a checklist of tasks that need to be completed for each monthly meeting."
+    "text": "Internal communication\nOrganized internal communication is critical to the success of any community. It’s important to have a clear and effective system for communication among organizers, including regular meetings and status updates. Consider using tools like GitHub project boards to track progress and assign tasks. It’s easy to create a template for monthly meetings, for example, and share a checklist of tasks that need to be completed for each monthly meeting.",
+    "crumbs": [
+      "Organization"
+    ]
   },
   {
     "objectID": "organization.html#considerations-for-meeting-planning",
     "href": "organization.html#considerations-for-meeting-planning",
     "title": "Organization",
     "section": "Considerations for meeting planning",
-    "text": "Considerations for meeting planning\nWhen it comes to planning community meetings, it’s important to stay organized and keep everyone informed. Make sure to have a clear plan for each event, and consider whether there will be a theme, who will be giving a presentation, and if you will be offering food or drinks. Create a schedule of events that can be published online and advertised ahead of time, and make sure to stick to it."
+    "text": "Considerations for meeting planning\nWhen it comes to planning community meetings, it’s important to stay organized and keep everyone informed. Make sure to have a clear plan for each event, and consider whether there will be a theme, who will be giving a presentation, and if you will be offering food or drinks. Create a schedule of events that can be published online and advertised ahead of time, and make sure to stick to it.",
+    "crumbs": [
+      "Organization"
+    ]
   },
   {
     "objectID": "organization.html#reaching-your-audience",
     "href": "organization.html#reaching-your-audience",
     "title": "Organization",
     "section": "Reaching your audience",
-    "text": "Reaching your audience\nThere are many technologies and tools available that can help you manage your community more effectively. For example, you can use Slack or Discord to communicate with members, create a website with GitHub pages to share resources and information, and use social media platforms like Twitter to promote your community and attract new members.\nIn conclusion, building and sustaining a community around learning how to program in R requires a dedicated team of organizers, clear communication, effective event planning, and access to resources like funding. By relying on a core team of organizers to make key decisions and create an overarching vision, you can create a thriving community that supports and inspires each other."
+    "text": "Reaching your audience\nThere are many technologies and tools available that can help you manage your community more effectively. For example, you can use Slack or Discord to communicate with members, create a website with GitHub pages to share resources and information, and use social media platforms like Twitter to promote your community and attract new members.\nIn conclusion, building and sustaining a community around learning how to program in R requires a dedicated team of organizers, clear communication, effective event planning, and access to resources like funding. By relying on a core team of organizers to make key decisions and create an overarching vision, you can create a thriving community that supports and inspires each other.",
+    "crumbs": [
+      "Organization"
+    ]
   },
   {
-    "objectID": "logistics.html#frequency",
-    "href": "logistics.html#frequency",
+    "objectID": "logistics.html",
+    "href": "logistics.html",
     "title": "Logistics",
-    "section": "Frequency",
-    "text": "Frequency\nFinding the right frequency for you as an organizer AND your community is crucial for the sustainability of your programming cafe. Your cafe will not be a success if you are eager to meet as often as possible, but your community consists of programmers with extremely busy schedules. Meeting too often may be exhausting for you as an organizer, and frustrating for your community as being pushed to constantly declining events may feel overwhelming. However, meeting only once in a blue moon is certainly not frequently enough to build strong bonds in your community.\nFinding the right balance is important. Try to find out what frequency may be seen as a standard for your audience and live within the rhythm of your institution. You can also reach out to partner institutions that already have experience and ask for advice. Nothing is written in stone: you can later change the frequency based on your experience.\nAs a suggestion: most of our coding cafes are organized on a monthly basis with a dynamic audience. That means that some people will join most of your events while others may only come irregularly for certain topics. However, some coding cafes do not follow a strict schedule but are organized ad-hoc once there are enough speakers, topics, or volunteers."
+    "section": "",
+    "text": "Frequency\nOrganizing a coding cafe requires some logistics, as for every event. However, coding cafes may come with special requirements that you need to take into account. The key message of this chapter is:\nFinding the right frequency for you as an organizer AND your community is crucial for the sustainability of your programming cafe. Your cafe will not be a success if you are eager to meet as often as possible, but your community consists of programmers with extremely busy schedules. Meeting too often may be exhausting for you as an organizer, and frustrating for your community as being pushed to constantly declining events may feel overwhelming. However, meeting only once in a blue moon is certainly not frequently enough to build strong bonds in your community.\nFinding the right balance is important. Try to find out what frequency may be seen as a standard for your audience and live within the rhythm of your institution. You can also reach out to partner institutions that already have experience and ask for advice. Nothing is written in stone: you can later change the frequency based on your experience.\nAs a suggestion: most of our coding cafes are organized on a monthly basis with a dynamic audience. That means that some people will join most of your events while others may only come irregularly for certain topics. However, some coding cafes do not follow a strict schedule but are organized ad-hoc once there are enough speakers, topics, or volunteers.",
+    "crumbs": [
+      "Logistics"
+    ]
   },
   {
     "objectID": "logistics.html#best-dates-times",
     "href": "logistics.html#best-dates-times",
     "title": "Logistics",
     "section": "Best dates & times",
-    "text": "Best dates & times\nFinding your rhythm is important, but not enough. Making exceptions to your frequency may be necessary. Some events may alter your planning such as for example:\n\nholidays (your attendance will probably be low if you plan an in-person coding event on Christmas Eve);\nvacation season (be mindful of potential school holiday breaks in your region if your community consists of programmers with families for example);\nexam or internship weeks at your university (if you are inviting students to your events make sure that they are around to join);\nmajor events at your institution that will be prioritized by your community (do not plan a coding cafe as an alternative to a major software related conference at your institution for example).\n\nAdditionally, planning around events that bring a lot of people together anyway may be beneficial. If you know that your audience will come together for a shorter event, you may want to try to get them after the event for your programming cafe.\nFinding the right week day and the best day time is equally important. A lot of institutions are offering telework options. Some of your colleagues may work part-time, or researchers may split their time between multiple institutions. That means that not everyone will be available to join an event on campus on certain days. If you know your audience well, you may avoid some pitfalls with setting the date. Mondays and Fridays may be preferred telework days for example, so plan accordingly on other days.\nDepending on your format, certain times during the day may be more suitable than others. If you offer food and drinks for example, you may benefit from setting your coding cafe during lunch hours or organize it in the late afternoons as an early dinner option."
+    "text": "Best dates & times\nFinding your rhythm is important, but not enough. Making exceptions to your frequency may be necessary. Some events may alter your planning such as for example:\n\nholidays (your attendance will probably be low if you plan an in-person coding event on Christmas Eve);\nvacation season (be mindful of potential school holiday breaks in your region if your community consists of programmers with families for example);\nexam or internship weeks at your university (if you are inviting students to your events make sure that they are around to join);\nmajor events at your institution that will be prioritized by your community (do not plan a coding cafe as an alternative to a major software related conference at your institution for example).\n\nAdditionally, planning around events that bring a lot of people together anyway may be beneficial. If you know that your audience will come together for a shorter event, you may want to try to get them after the event for your programming cafe.\nFinding the right week day and the best day time is equally important. A lot of institutions are offering telework options. Some of your colleagues may work part-time, or researchers may split their time between multiple institutions. That means that not everyone will be available to join an event on campus on certain days. If you know your audience well, you may avoid some pitfalls with setting the date. Mondays and Fridays may be preferred telework days for example, so plan accordingly on other days.\nDepending on your format, certain times during the day may be more suitable than others. If you offer food and drinks for example, you may benefit from setting your coding cafe during lunch hours or organize it in the late afternoons as an early dinner option.",
+    "crumbs": [
+      "Logistics"
+    ]
   },
   {
     "objectID": "logistics.html#food-drinks",
     "href": "logistics.html#food-drinks",
     "title": "Logistics",
     "section": "Food & drinks",
-    "text": "Food & drinks\nNo one likes to work on an empty stomach - same goes for programming. Offering food or drinks may help to increase the mood of the audience and may attract some additional people. There will probably be a lot of events and meetings to choose from on busy days, and offering snacks or drinks may help people to decide to spend their time at your coding cafe. Some advantages of offering food and drinks are:\n\nIncrease of attraction;\nIncrease of happiness;\nWorks as an icebreaker since people come together at a potential buffet.\n\nHowever, providing foods and drinks also comes with disadvantages such as\n\nIncrease of cost;\nIncrease of organizational effort.\n\nIf you order pizza for example for all participants, you need a higher budget and you have an additional effort of ordering and receiving pizza in time.\nThere is a vast amount of choices for selecting the right food and drinks for your audience. If you organize an event for a vegan audience, offering steaks for barbecue seems an odd choice. The same may be true for your audience. A traditional choice for programming events may be pizza and you probably can hardly go wrong with this all-time favorite. However, there may be better lunch options that can be distributed much easier, such as onigiri for example.\nDrinks can be organized in the same fashion depending on your audience’s preferences. Decide if you want to offer alcoholic options for example or if you need both, hot and cold drinks at the same time."
+    "text": "Food & drinks\nNo one likes to work on an empty stomach - same goes for programming. Offering food or drinks may help to increase the mood of the audience and may attract some additional people. There will probably be a lot of events and meetings to choose from on busy days, and offering snacks or drinks may help people to decide to spend their time at your coding cafe. Some advantages of offering food and drinks are:\n\nIncrease of attraction;\nIncrease of happiness;\nWorks as an icebreaker since people come together at a potential buffet.\n\nHowever, providing foods and drinks also comes with disadvantages such as\n\nIncrease of cost;\nIncrease of organizational effort.\n\nIf you order pizza for example for all participants, you need a higher budget and you have an additional effort of ordering and receiving pizza in time.\nThere is a vast amount of choices for selecting the right food and drinks for your audience. If you organize an event for a vegan audience, offering steaks for barbecue seems an odd choice. The same may be true for your audience. A traditional choice for programming events may be pizza and you probably can hardly go wrong with this all-time favorite. However, there may be better lunch options that can be distributed much easier, such as onigiri for example.\nDrinks can be organized in the same fashion depending on your audience’s preferences. Decide if you want to offer alcoholic options for example or if you need both, hot and cold drinks at the same time.",
+    "crumbs": [
+      "Logistics"
+    ]
   },
   {
     "objectID": "logistics.html#room-setup",
     "href": "logistics.html#room-setup",
     "title": "Logistics",
     "section": "Room setup",
-    "text": "Room setup\nLast but not least, decide on the right room. A coding cafe can be organized online which comes with its own challenges. If you decide to organize an in-person event, you need to book a room that fits the needs of your event.\nThings you may need to consider are:\n\nRoom size;\nConvenient location of the room;\nAccessibility of the room;\nFindability of the room;\nNumber of power outlets;\nNumber of tables;\nAre food and drink consumption allowed?;\nPresenter options.\n\nAll in all, make sure that the idea of your programming cafe fits into the chosen room. 30 participants may not fit in a common meeting room. A room at a non-central building may be a barrier for your community since they need to travel there. Also make sure that your participants will be able to access the room, even if they don’t have access cards for example. Investing time into printing way points may pay off since it minimizes the risk that your participants get lost on the way to you. As an alternative, you can also provide a detailed description of how to get there in your invitation. Make sure that the room is fit for programming needs, e.g. power outlets and tables are required. As an alternative, you can organize extension cables or similar. Think also about your format: do you need a screen for presenting or a flipchart or room to freely move around. If you order pizza, make sure you are not thrown out of the room for smuggling greasy food into an auditorium."
+    "text": "Room setup\nLast but not least, decide on the right room. A coding cafe can be organized online which comes with its own challenges. If you decide to organize an in-person event, you need to book a room that fits the needs of your event.\nThings you may need to consider are:\n\nRoom size;\nConvenient location of the room;\nAccessibility of the room;\nFindability of the room;\nNumber of power outlets;\nNumber of tables;\nAre food and drink consumption allowed?;\nPresenter options.\n\nAll in all, make sure that the idea of your programming cafe fits into the chosen room. 30 participants may not fit in a common meeting room. A room at a non-central building may be a barrier for your community since they need to travel there. Also make sure that your participants will be able to access the room, even if they don’t have access cards for example. Investing time into printing way points may pay off since it minimizes the risk that your participants get lost on the way to you. As an alternative, you can also provide a detailed description of how to get there in your invitation. Make sure that the room is fit for programming needs, e.g. power outlets and tables are required. As an alternative, you can organize extension cables or similar. Think also about your format: do you need a screen for presenting or a flipchart or room to freely move around. If you order pizza, make sure you are not thrown out of the room for smuggling greasy food into an auditorium.",
+    "crumbs": [
+      "Logistics"
+    ]
   },
   {
-    "objectID": "format.html#frequency-and-timing",
-    "href": "format.html#frequency-and-timing",
+    "objectID": "format.html",
+    "href": "format.html",
     "title": "Format",
-    "section": "Frequency and Timing",
-    "text": "Frequency and Timing\nWe have successful experiences of running monthly and bi-weekly CAFE events. They can be planned as lunch meetings, at the end of the working day or (partly) after office hours. There are pro’s and con’s to each of these options. You may initially start with something that works for the organizers and the initial community, and then adjust based on the needs of the community as the community grows."
+    "section": "",
+    "text": "Frequency and Timing\nThere are several considerations for the format of the programming CAFE. These include: Frequency, Timing, Agenda, Topics. These aspects may differ depending on the size of the community, the capacity of the organizers, and the needs of the community.\nWe have successful experiences of running monthly and bi-weekly CAFE events. They can be planned as lunch meetings, at the end of the working day or (partly) after office hours. There are pro’s and con’s to each of these options. You may initially start with something that works for the organizers and the initial community, and then adjust based on the needs of the community as the community grows.",
+    "crumbs": [
+      "Format"
+    ]
   },
   {
     "objectID": "format.html#presentation-component",
     "href": "format.html#presentation-component",
     "title": "Format",
     "section": "Presentation component",
-    "text": "Presentation component\nAt CAFE, we believe that knowledge-sharing is key to fostering a supportive and collaborative community. That’s why we dedicate at least some part of the events on a presentation component on a programming related topic. These presentations can be given by an expert in the field or by someone from within the CAFE community who has knowledge to share.\n\nBenefits of presentations\nThe presentation component of CAFE serves several important purposes. First and foremost, it provides a platform for experts and community members to share their knowledge and insights on programming-related topics. This not only helps to deepen the knowledge and skills of individual community members, but it also promotes collaboration and mutual support among members of the CAFE community.\nSecondly, the presentation component helps to keep the CAFE community up-to-date on the latest trends, tools, and techniques in programming. By staying abreast of new developments in the field, community members can continue to grow and expand their skills, and can also explore new research opportunities.\nFinally, the presentation component is a great way to showcase the diverse range of interests and expertise within the CAFE community. By providing a platform for community members to share their knowledge and insights, we hope to foster a sense of pride and ownership within the community, and to encourage more community members to get involved and share their skills.\n\n\nFormat of presentations\nThe format of the presentations will vary depending on the presenter and the topic being discussed. However, in general, presentations will be structured as a short talk followed by a Q&A session. This will give community members the opportunity to ask questions, clarify any points of confusion, and engage in a dialogue with the presenter.\n\n\nTopics covered\nThe topics covered in the presentations will also vary depending on the interests and needs of the community. Some examples of potential presentation topics might include:\n\nIntroduction to Python/R/MATLAB\nData visualization techniques\nMachine learning and artificial intelligence\nBest practices for coding and software development\nTips and tricks for debugging and troubleshooting\n\nBy covering a diverse range of topics, we hope to provide valuable resources and knowledge to community members of all skill levels and interests."
+    "text": "Presentation component\nAt CAFE, we believe that knowledge-sharing is key to fostering a supportive and collaborative community. That’s why we dedicate at least some part of the events on a presentation component on a programming related topic. These presentations can be given by an expert in the field or by someone from within the CAFE community who has knowledge to share.\n\nBenefits of presentations\nThe presentation component of CAFE serves several important purposes. First and foremost, it provides a platform for experts and community members to share their knowledge and insights on programming-related topics. This not only helps to deepen the knowledge and skills of individual community members, but it also promotes collaboration and mutual support among members of the CAFE community.\nSecondly, the presentation component helps to keep the CAFE community up-to-date on the latest trends, tools, and techniques in programming. By staying abreast of new developments in the field, community members can continue to grow and expand their skills, and can also explore new research opportunities.\nFinally, the presentation component is a great way to showcase the diverse range of interests and expertise within the CAFE community. By providing a platform for community members to share their knowledge and insights, we hope to foster a sense of pride and ownership within the community, and to encourage more community members to get involved and share their skills.\n\n\nFormat of presentations\nThe format of the presentations will vary depending on the presenter and the topic being discussed. However, in general, presentations will be structured as a short talk followed by a Q&A session. This will give community members the opportunity to ask questions, clarify any points of confusion, and engage in a dialogue with the presenter.\n\n\nTopics covered\nThe topics covered in the presentations will also vary depending on the interests and needs of the community. Some examples of potential presentation topics might include:\n\nIntroduction to Python/R/MATLAB\nData visualization techniques\nMachine learning and artificial intelligence\nBest practices for coding and software development\nTips and tricks for debugging and troubleshooting\n\nBy covering a diverse range of topics, we hope to provide valuable resources and knowledge to community members of all skill levels and interests.",
+    "crumbs": [
+      "Format"
+    ]
   },
   {
     "objectID": "format.html#coding-component",
     "href": "format.html#coding-component",
     "title": "Format",
     "section": "Coding component",
-    "text": "Coding component\nWe also schedule time for coding during the CAFE events. This is a great opportunity for community members to work on their own projects, collaborate with others, and ask questions about programming-related issues. We also allow participants to code during the presentation component of the event if a presentation is not relevant to their interests or needs. In this way the event is always open for a diverse audience with different interests and skill levels, which is valuable for interaction and knowledge sharing in the community."
+    "text": "Coding component\nWe also schedule time for coding during the CAFE events. This is a great opportunity for community members to work on their own projects, collaborate with others, and ask questions about programming-related issues. We also allow participants to code during the presentation component of the event if a presentation is not relevant to their interests or needs. In this way the event is always open for a diverse audience with different interests and skill levels, which is valuable for interaction and knowledge sharing in the community.",
+    "crumbs": [
+      "Format"
+    ]
   },
   {
     "objectID": "format.html#promoting-interaction",
     "href": "format.html#promoting-interaction",
     "title": "Format",
     "section": "Promoting interaction",
-    "text": "Promoting interaction\nCommunity organizers can promote interaction by keeping an informal overview of the community members (and their projects, questions and skills) and facilitate connections. Snacks and drinks are a great way to promote interaction and collaboration among community members. This helps to create a more relaxed and informal atmosphere where connections are made more easily."
+    "text": "Promoting interaction\nCommunity organizers can promote interaction by keeping an informal overview of the community members (and their projects, questions and skills) and facilitate connections. Snacks and drinks are a great way to promote interaction and collaboration among community members. This helps to create a more relaxed and informal atmosphere where connections are made more easily.",
+    "crumbs": [
+      "Format"
+    ]
   },
   {
     "objectID": "format.html#exercises",
     "href": "format.html#exercises",
     "title": "Format",
     "section": "Exercises",
-    "text": "Exercises\nExercises provide a great opportunity for community members to practice their programming skills and to learn new techniques. They also help to reinforce the concepts covered in the presentations and to ensure that community members are able to apply what they have learned in a practical way. Besides, exercises can be a great way to get community members to interact with each other and to collaborate."
+    "text": "Exercises\nExercises provide a great opportunity for community members to practice their programming skills and to learn new techniques. They also help to reinforce the concepts covered in the presentations and to ensure that community members are able to apply what they have learned in a practical way. Besides, exercises can be a great way to get community members to interact with each other and to collaborate.",
+    "crumbs": [
+      "Format"
+    ]
   },
   {
-    "objectID": "community.html#communication",
-    "href": "community.html#communication",
+    "objectID": "community.html",
+    "href": "community.html",
     "title": "Community Building",
-    "section": "Communication",
-    "text": "Communication\nFirst and foremost, effective communication is key to building and sustaining a learning community. Make sure that everyone has a way to communicate with each other, whether it be through an online forum, a social media group, or a messaging app. Encourage members to share their experiences, ask questions, and offer advice. Consider setting up a regular newsletter or email list along with a list of upcoming meetings on your website to keep everyone informed about upcoming events and opportunities."
+    "section": "",
+    "text": "Communication\nProgramming can be a daunting task, especially when you’re just starting out, but it doesn’t have to be a lonely one. By building a community of learners, you can support each other, learn from each other, and grow together.\nFirst and foremost, effective communication is key to building and sustaining a learning community. Make sure that everyone has a way to communicate with each other, whether it be through an online forum, a social media group, or a messaging app. Encourage members to share their experiences, ask questions, and offer advice. Consider setting up a regular newsletter or email list along with a list of upcoming meetings on your website to keep everyone informed about upcoming events and opportunities.",
+    "crumbs": [
+      "Community Building"
+    ]
   },
   {
     "objectID": "community.html#event-registration",
     "href": "community.html#event-registration",
     "title": "Community Building",
     "section": "Event registration",
-    "text": "Event registration\nWhen it comes to registrations for events, make sure that the process is simple and easy to understand. Use a platform that is user-friendly and accessible, such as Eventbrite or Google Forms, and make sure that people know how to sign up."
+    "text": "Event registration\nWhen it comes to registrations for events, make sure that the process is simple and easy to understand. Use a platform that is user-friendly and accessible, such as Eventbrite or Google Forms, and make sure that people know how to sign up.",
+    "crumbs": [
+      "Community Building"
+    ]
   },
   {
     "objectID": "community.html#meetings",
     "href": "community.html#meetings",
     "title": "Community Building",
     "section": "Meetings",
-    "text": "Meetings\nWhether you choose to meet online, in person, or hybrid, a consistent schedule of meetups can be a great way to build connections and foster a sense of community. Ice-breakers can be a great way to get people talking and help everyone feel more comfortable. Some good ice-breakers include “two truths and a lie”, “speed dating”, and “name games”. Make sure to create an inclusive environment where everyone feels welcome and valued."
+    "text": "Meetings\nWhether you choose to meet online, in person, or hybrid, a consistent schedule of meetups can be a great way to build connections and foster a sense of community. Ice-breakers can be a great way to get people talking and help everyone feel more comfortable. Some good ice-breakers include “two truths and a lie”, “speed dating”, and “name games”. Make sure to create an inclusive environment where everyone feels welcome and valued.",
+    "crumbs": [
+      "Community Building"
+    ]
   },
   {
     "objectID": "community.html#creating-an-inclusive-atmosphere",
     "href": "community.html#creating-an-inclusive-atmosphere",
     "title": "Community Building",
     "section": "Creating an inclusive atmosphere",
-    "text": "Creating an inclusive atmosphere\nIt’s important to make sure that everyone feels included in the community. Consider assigning mentors or buddies to new members to help them get acclimated. Encourage members to share their experiences and to help each other out. Create opportunities for people to connect and collaborate, such as hackathons or study groups."
+    "text": "Creating an inclusive atmosphere\nIt’s important to make sure that everyone feels included in the community. Consider assigning mentors or buddies to new members to help them get acclimated. Encourage members to share their experiences and to help each other out. Create opportunities for people to connect and collaborate, such as hackathons or study groups.",
+    "crumbs": [
+      "Community Building"
+    ]
   },
   {
     "objectID": "community.html#creating-and-maintaining-connections",
     "href": "community.html#creating-and-maintaining-connections",
     "title": "Community Building",
     "section": "Creating and maintaining connections",
-    "text": "Creating and maintaining connections\nTo help community members stay connected, make sure to provide ongoing opportunities for engagement. Host regular meetups or workshops, and encourage members to share their projects and successes. Consider setting up a Slack channel or other messaging platform to facilitate ongoing conversations and collaborations."
+    "text": "Creating and maintaining connections\nTo help community members stay connected, make sure to provide ongoing opportunities for engagement. Host regular meetups or workshops, and encourage members to share their projects and successes. Consider setting up a Slack channel or other messaging platform to facilitate ongoing conversations and collaborations.",
+    "crumbs": [
+      "Community Building"
+    ]
   },
   {
     "objectID": "community.html#swag",
     "href": "community.html#swag",
     "title": "Community Building",
     "section": "Swag!",
-    "text": "Swag!\nFinally, swag can be a fun and rewarding way to recognize and incentivize community members. Consider giving out stickers, t-shirts, or other branded merchandise to show your appreciation. Not only does it make people feel valued, but it can also help to spread the word about your community.\nIn conclusion, building and sustaining a learning community takes effort and dedication, but the rewards are worth it. By fostering effective communication, creating a welcoming and inclusive environment, and providing ongoing opportunities for engagement, you can create a community that supports and inspires each other."
+    "text": "Swag!\nFinally, swag can be a fun and rewarding way to recognize and incentivize community members. Consider giving out stickers, t-shirts, or other branded merchandise to show your appreciation. Not only does it make people feel valued, but it can also help to spread the word about your community.\nIn conclusion, building and sustaining a learning community takes effort and dedication, but the rewards are worth it. By fostering effective communication, creating a welcoming and inclusive environment, and providing ongoing opportunities for engagement, you can create a community that supports and inspires each other.",
+    "crumbs": [
+      "Community Building"
+    ]
   },
   {
     "objectID": "summary.html",
     "href": "summary.html",
     "title": "Summary",
     "section": "",
-    "text": "In summary, there are a lot of things to consider. However, we hope that this playbook will help you to plan ahead and host a rewarding CAFE. Some of our key messasges are:\n\nknow your audience;\nknow the parameters that you can work within;\nreach out for help;\nlearn from your own and other’s experiences.\n\nThis is a living document. Please make sure to stay in touch with us via our email addresses (info.rdm@uu.nl, rcafe-lib@tudelft.nl, s.van.de.sandt@vu.nl) and help us to make this playbook more suitable for you."
+    "text": "In summary, there are a lot of things to consider. However, we hope that this playbook will help you to plan ahead and host a rewarding CAFE. Some of our key messasges are:\n\nknow your audience;\nknow the parameters that you can work within;\nreach out for help;\nlearn from your own and other’s experiences.\n\nThis is a living document. Please make sure to stay in touch with us via our email addresses (info.rdm@uu.nl, rcafe-lib@tudelft.nl, s.van.de.sandt@vu.nl) and help us to make this playbook more suitable for you.",
+    "crumbs": [
+      "Summary"
+    ]
   },
   {
-    "objectID": "uu.html#who-we-are",
-    "href": "uu.html#who-we-are",
+    "objectID": "uu.html",
+    "href": "uu.html",
     "title": "Utrecht University: Programming Café",
-    "section": "Who we are",
-    "text": "Who we are\nThe Programming Cafe at Utrecht University is an informal meet-up, where we share knowledge about programming through short presentations/demos and also help each other with challenges in working with code and data.\nThe Programming Café is a ‘relaunch’ of the popular R Café external link community event that used to take place before the coronavirus outbreak. We were happy to broaden the event to include programming languages other than R."
+    "section": "",
+    "text": "Who we are\nDo you want to improve your programming skills, ask questions related to programming, or meet other researchers? Pick up your laptop and come to the Programming Café!\nWebsite: https://www.uu.nl/en/research/research-data-management/walk-in-hours-workshops/programming-cafe\nGithub: UtrechtUniversity/programming-cafe\nThe Programming Cafe at Utrecht University is an informal meet-up, where we share knowledge about programming through short presentations/demos and also help each other with challenges in working with code and data.\nThe Programming Café is a ‘relaunch’ of the popular R Café external link community event that used to take place before the coronavirus outbreak. We were happy to broaden the event to include programming languages other than R.",
+    "crumbs": [
+      "Use Cases",
+      "Utrecht University: Programming Café"
+    ]
   },
   {
     "objectID": "uu.html#who-can-join",
     "href": "uu.html#who-can-join",
     "title": "Utrecht University: Programming Café",
     "section": "Who can join",
-    "text": "Who can join\nEveryone is welcome at the Programming Café. We expect most attendees will be R or Python users, but users of other programming languages and software are invited as well. Attendees can be of any skill level and at any stage in working with code and data. Attendees can bring your programming problems to work on or discuss with the others. Even if you do not have an issue, you’re welcome at the Café - just to work on code or try out the exercises that have been prepared."
+    "text": "Who can join\nEveryone is welcome at the Programming Café. We expect most attendees will be R or Python users, but users of other programming languages and software are invited as well. Attendees can be of any skill level and at any stage in working with code and data. Attendees can bring your programming problems to work on or discuss with the others. Even if you do not have an issue, you’re welcome at the Café - just to work on code or try out the exercises that have been prepared.",
+    "crumbs": [
+      "Use Cases",
+      "Utrecht University: Programming Café"
+    ]
   },
   {
     "objectID": "uu.html#community-meetings",
     "href": "uu.html#community-meetings",
     "title": "Utrecht University: Programming Café",
     "section": "Community Meetings",
-    "text": "Community Meetings\nThe Programming Café takes place on a monthly basis, and it will last about two hours (usually towards the end of the workday). Registration is not required. See the GitHub page UtrechtUniversity/programming-cafe for more information."
+    "text": "Community Meetings\nThe Programming Café takes place on a monthly basis, and it will last about two hours (usually towards the end of the workday). Registration is not required. See the GitHub page UtrechtUniversity/programming-cafe for more information.",
+    "crumbs": [
+      "Use Cases",
+      "Utrecht University: Programming Café"
+    ]
   },
   {
     "objectID": "uu.html#more-information",
     "href": "uu.html#more-information",
     "title": "Utrecht University: Programming Café",
     "section": "More information?",
-    "text": "More information?\nThe Programming Cage is an initiative of Research Data Management Support at Utrecht University. The current organizers are Neha Moopen & Jelle Treep. For more information, you can contact the organizers via info.rdm(at)uu.nl or keep up with the GitHub page (and eventual website): UtrechtUniversity/programming-cafe"
+    "text": "More information?\nThe Programming Cage is an initiative of Research Data Management Support at Utrecht University. The current organizers are Neha Moopen & Jelle Treep. For more information, you can contact the organizers via info.rdm(at)uu.nl or keep up with the GitHub page (and eventual website): UtrechtUniversity/programming-cafe",
+    "crumbs": [
+      "Use Cases",
+      "Utrecht University: Programming Café"
+    ]
   },
   {
-    "objectID": "vu.html#who-we-are",
-    "href": "vu.html#who-we-are",
+    "objectID": "vu.html",
+    "href": "vu.html",
     "title": "Vrije Universiteit Amsterdam: Bytes & Bites",
-    "section": "Who we are",
-    "text": "Who we are\nWe are newcomers in the landscape of programming cafes in the Netherlands, but determined to establish Bytes & Bites as a constant in everyone’s calendars.\nBytes & Bites has been running monthly meetings since April 2023 and was inspired by Utrecht University’s Programming Café and the Programming Café at TU Delft. Our journey started at the university library with organizing Carpentry courses for software beginners, but mastering the art of programming requires constant challenges. Where can you get help when you’re stuck and how can programming stay fun? Most of the programming initiatives at the VU focus on a specific community and are not open for everyone. Thus we joined forces with already existing software communities and created an event series that does not replace any other community events, but rather connects existing initiatives.\nWith Bytes & Bites our dream of an inclusive software community event became a reality."
+    "section": "",
+    "text": "Who we are\nDo you want to meet other researchers, improve your programming skills, or ask questions related to programming? Pick up your laptop and come to the first edition of the Bytes & Bites.\nWebsite: https://ubvu.github.io/bytes-and-bites/\nWe are newcomers in the landscape of programming cafes in the Netherlands, but determined to establish Bytes & Bites as a constant in everyone’s calendars.\nBytes & Bites has been running monthly meetings since April 2023 and was inspired by Utrecht University’s Programming Café and the Programming Café at TU Delft. Our journey started at the university library with organizing Carpentry courses for software beginners, but mastering the art of programming requires constant challenges. Where can you get help when you’re stuck and how can programming stay fun? Most of the programming initiatives at the VU focus on a specific community and are not open for everyone. Thus we joined forces with already existing software communities and created an event series that does not replace any other community events, but rather connects existing initiatives.\nWith Bytes & Bites our dream of an inclusive software community event became a reality.",
+    "crumbs": [
+      "Use Cases",
+      "Vrije Universiteit Amsterdam: Bytes & Bites"
+    ]
   },
   {
     "objectID": "vu.html#who-can-join",
     "href": "vu.html#who-can-join",
     "title": "Vrije Universiteit Amsterdam: Bytes & Bites",
     "section": "Who can join",
-    "text": "Who can join\nBytes & Bites is for you - no matter if you have just started to print  or rule by code; if you are team Python or R - Bytes & Bites is for everyone interested in programming tools and computational research. Bytes & Bites is an event series for the broader VU community and friends who would like to work on their programming skills. Come, join, and find out who is working on what project in and outside your usual community,or kick-off new collaborations. You can also work with your friends and colleagues on your scripts, solve coding puzzles, or discuss new computational challenges and developments in your field."
+    "text": "Who can join\nBytes & Bites is for you - no matter if you have just started to print  or rule by code; if you are team Python or R - Bytes & Bites is for everyone interested in programming tools and computational research. Bytes & Bites is an event series for the broader VU community and friends who would like to work on their programming skills. Come, join, and find out who is working on what project in and outside your usual community,or kick-off new collaborations. You can also work with your friends and colleagues on your scripts, solve coding puzzles, or discuss new computational challenges and developments in your field.",
+    "crumbs": [
+      "Use Cases",
+      "Vrije Universiteit Amsterdam: Bytes & Bites"
+    ]
   },
   {
     "objectID": "vu.html#community-meetings",
     "href": "vu.html#community-meetings",
     "title": "Vrije Universiteit Amsterdam: Bytes & Bites",
     "section": "Community meetings",
-    "text": "Community meetings\nWe organize Bytes & Bites as monthly peer support events for researchers and students who are interested in coding. You can find us once a month on a Tuesday or Thursday afternoon (16:00 - 18:00) at the VU in Amsterdam. That does not mean that you have to spend two hours coding, everyone is welcome to walk-in and walk-out at any time and follow their interests. We only organize the room, 🍕 (!) and guest presenters for changing themes. The program of each session varies since Bytes & Bites is still pretty young and we have to figure out together with you what works and what does not.\nHowever, we guarantee that you will always have enough time for the truly important things: chats and pizza!"
+    "text": "Community meetings\nWe organize Bytes & Bites as monthly peer support events for researchers and students who are interested in coding. You can find us once a month on a Tuesday or Thursday afternoon (16:00 - 18:00) at the VU in Amsterdam. That does not mean that you have to spend two hours coding, everyone is welcome to walk-in and walk-out at any time and follow their interests. We only organize the room, 🍕 (!) and guest presenters for changing themes. The program of each session varies since Bytes & Bites is still pretty young and we have to figure out together with you what works and what does not.\nHowever, we guarantee that you will always have enough time for the truly important things: chats and pizza!",
+    "crumbs": [
+      "Use Cases",
+      "Vrije Universiteit Amsterdam: Bytes & Bites"
+    ]
   },
   {
     "objectID": "vu.html#more-information",
     "href": "vu.html#more-information",
     "title": "Vrije Universiteit Amsterdam: Bytes & Bites",
     "section": "More information?",
-    "text": "More information?\nBytes & Bites is an initiative of the VU university library in collaboration with data stewards and engaged members of the VU software community. The main organizers are Meron Vermaas, Lena Karvovskaya, Brett Olivier, Peter Stol, Max Paulus, and Stephanie van de Sandt. For questions or more information, please contact m.vermaas(at)vu.nl or s.van.de.sandt(at)vu.nl. You can also find us on GitHub."
+    "text": "More information?\nBytes & Bites is an initiative of the VU university library in collaboration with data stewards and engaged members of the VU software community. The main organizers are Meron Vermaas, Lena Karvovskaya, Brett Olivier, Peter Stol, Max Paulus, and Stephanie van de Sandt. For questions or more information, please contact m.vermaas(at)vu.nl or s.van.de.sandt(at)vu.nl. You can also find us on GitHub.",
+    "crumbs": [
+      "Use Cases",
+      "Vrije Universiteit Amsterdam: Bytes & Bites"
+    ]
   },
   {
-    "objectID": "tu-delft.html#who-we-are",
-    "href": "tu-delft.html#who-we-are",
+    "objectID": "tu-delft.html",
+    "href": "tu-delft.html",
     "title": "TU Delft: R Café",
-    "section": "Who we are",
-    "text": "Who we are\nWe’re a group of R enthusiasts from across the TU Delft community who meet monthly to discuss questions from the very broad, “Why should I use R?” to the hyper-specific, “Why is my code not working?!”\nTogether we make up a supportive community of practice for researchers to share knowledge and learn with each other in an open and informal setting.\nOur initiative has been running monthly meetings since November 2021 and was inspired by Utrecht University’s Programming Café."
+    "section": "",
+    "text": "Who we are\nDo you want to build your skills in the programming language R, write R code with others, or ask questions about working with R?\nWebsite: https://delft-rcafe.github.io/home/Index.html\nWe’re a group of R enthusiasts from across the TU Delft community who meet monthly to discuss questions from the very broad, “Why should I use R?” to the hyper-specific, “Why is my code not working?!”\nTogether we make up a supportive community of practice for researchers to share knowledge and learn with each other in an open and informal setting.\nOur initiative has been running monthly meetings since November 2021 and was inspired by Utrecht University’s Programming Café.",
+    "crumbs": [
+      "Use Cases",
+      "TU Delft: R Café"
+    ]
   },
   {
     "objectID": "tu-delft.html#who-can-join",
     "href": "tu-delft.html#who-can-join",
     "title": "TU Delft: R Café",
     "section": "Who can join",
-    "text": "Who can join\nThe R Café is open to anyone who works in R or is interested in learning. No prior experience with R is necessary - all are welcome! Many of our members have recently completed the Data Carpentry workshop and are looking for a space to continue practicing R skills with others. You can also join if you’ve got plenty of R experience and want to share some awesome tips and tricks (e.g., about an R package, type of analysis, or visualization) with others."
+    "text": "Who can join\nThe R Café is open to anyone who works in R or is interested in learning. No prior experience with R is necessary - all are welcome! Many of our members have recently completed the Data Carpentry workshop and are looking for a space to continue practicing R skills with others. You can also join if you’ve got plenty of R experience and want to share some awesome tips and tricks (e.g., about an R package, type of analysis, or visualization) with others.",
+    "crumbs": [
+      "Use Cases",
+      "TU Delft: R Café"
+    ]
   },
   {
     "objectID": "tu-delft.html#community-meetings",
     "href": "tu-delft.html#community-meetings",
     "title": "TU Delft: R Café",
     "section": "Community meetings",
-    "text": "Community meetings\nOur monthly meetings usually have a theme which we can touch upon by brief presentations by one or more of our members, exercises for us to work through, a group discussion, or some combination.\nWe take a hands-on approach to work through problems and always have RStudio open for live coding. Because we know our audience, we offer a unique combination of ☕ and 🍕."
+    "text": "Community meetings\nOur monthly meetings usually have a theme which we can touch upon by brief presentations by one or more of our members, exercises for us to work through, a group discussion, or some combination.\nWe take a hands-on approach to work through problems and always have RStudio open for live coding. Because we know our audience, we offer a unique combination of ☕ and 🍕.",
+    "crumbs": [
+      "Use Cases",
+      "TU Delft: R Café"
+    ]
   },
   {
     "objectID": "tu-delft.html#more-information",
     "href": "tu-delft.html#more-information",
     "title": "TU Delft: R Café",
     "section": "More information?",
-    "text": "More information?\nThe R Cafe is an initiative of the TU Delft Library Research Data Services Team and the Digital Competence Centre. The organizers are Ashley Cryan and Aleksandra Wilczynska. For questions or more information, please contact rcafe-lib@tudelft.nl. You can also find us on GitHub and via our website."
+    "text": "More information?\nThe R Cafe is an initiative of the TU Delft Library Research Data Services Team and the Digital Competence Centre. The organizers are Ashley Cryan and Aleksandra Wilczynska. For questions or more information, please contact rcafe-lib@tudelft.nl. You can also find us on GitHub and via our website.",
+    "crumbs": [
+      "Use Cases",
+      "TU Delft: R Café"
+    ]
+  },
+  {
+    "objectID": "tiu.html",
+    "href": "tiu.html",
+    "title": "Tilburg University: Coding Café",
+    "section": "",
+    "text": "Setup\nDo you want to learn how to write better code? Finally learn version control? Make your code more robust? Figure out how to smoothly write software within teams? Then the Coding Café might just be your cup of tea ☕!\nOur Coding Café is an informal meetup where researchers get together and talk research software! As a community, we will exchange our experiences, challenges, and best practices. The Coding Café is an established format in universities around the country. Inspired by its success, we decided to host our own sessions as well.\nAnd what would be a coding session without a good snack? To keep all your coding brain cells fueled, we will provide a selection of freshly delivered pizza 🍕.\nOur GitLab Group: https://gitlab.uvt.nl/coding-caf/gitlab-profile\nThe Tilburg University Coding Café is a local implementation of the CAFE playbook. Our sessions have one coding concept that is put in the spotlight. You will learn all you need to get started in a short presentation. After that, you get to practice what you’ve learned hands-on!\nParticipants are also welcome to stray off and find some peers to take a look at your own code. It’s all FAIR game! For example, they can bring their own programming questions, conundrums, and pesky bugs to discuss and (hopefully) resolve with the help of the community!",
+    "crumbs": [
+      "Use Cases",
+      "Tilburg University: Coding Café"
+    ]
+  },
+  {
+    "objectID": "tiu.html#quick-info",
+    "href": "tiu.html#quick-info",
+    "title": "Tilburg University: Coding Café",
+    "section": "Quick info",
+    "text": "Quick info\nType of instruction: Community lunch meetup\nTime: 11:00 - 13:00 hrs\nPreparation: Bring your own laptop",
+    "crumbs": [
+      "Use Cases",
+      "Tilburg University: Coding Café"
+    ]
+  },
+  {
+    "objectID": "tiu.html#who-can-attend",
+    "href": "tiu.html#who-can-attend",
+    "title": "Tilburg University: Coding Café",
+    "section": "Who can attend?",
+    "text": "Who can attend?\nThe Coding Café is open to all researchers (including PhDs), support staff and student assistants of Tilburg University. Whether you have never written a line of code in your life or have published a dozen packages on CRAN or PyPI, everyone is welcome.",
+    "crumbs": [
+      "Use Cases",
+      "Tilburg University: Coding Café"
+    ]
+  },
+  {
+    "objectID": "tiu.html#materials",
+    "href": "tiu.html#materials",
+    "title": "Tilburg University: Coding Café",
+    "section": "Materials",
+    "text": "Materials\nThe materials of the invited talks can be found on GitLab where we collect the materials from the invited talks of past sessions. The licenses vary per contribution and can be found there.",
+    "crumbs": [
+      "Use Cases",
+      "Tilburg University: Coding Café"
+    ]
+  },
+  {
+    "objectID": "tiu.html#funding",
+    "href": "tiu.html#funding",
+    "title": "Tilburg University: Coding Café",
+    "section": "Funding",
+    "text": "Funding\nFrom July 2024 to August 2025, the Tilburg University Coding Café has been funded by the Netherlands eScienceCenter within their Fellowship program. The invited talks were held by amazing engineers and teachers from there as well! Thanks so much for making this possible!",
+    "crumbs": [
+      "Use Cases",
+      "Tilburg University: Coding Café"
+    ]
+  },
+  {
+    "objectID": "tiu.html#lessons-learned-future-recommendations",
+    "href": "tiu.html#lessons-learned-future-recommendations",
+    "title": "Tilburg University: Coding Café",
+    "section": "Lessons Learned & Future Recommendations",
+    "text": "Lessons Learned & Future Recommendations\nSeveral operational insights emerged over the course of the Coding Café:\n\nPrioritize general and beginner-friendly topics: Accessible topics enhance broad participation, helping newcomers to engage meaningfully with fundamental research software practices.\nStrategic catering timing improves engagement: Shifting catering to the mid-point of events incentivized participation during the open-collaboration portion and improved physical momentum in the room. For this, we changed the times from 12:00–14:00 to 11:00–13:00, with the pizza arriving at the mid-point of the meetup.\nRole of support staff in moderating the hands-on session: Moderation of the open collaboration time is essential and a good ratio of support staff to participants helps with that.\nFacilitate open collaboration with structured prompts: Attendees are often hesitant to engage with each other during the collaborative sessions. As of summer 2025, the Café will pilot prompt cards from the “Open Science Against Humanity” GHOST game, providing structured yet informal conversation starters while maintaining session flexibility. The game is freely available and can be ordered through GHOST’s webpage. GitLab group where we collect the materials from the invited talks of past sessions. The licenses vary per contribution and can be found there.\nLeverage regular attendees (“champions”) as community anchors: Attendance fluctuated across sessions, with most attendants coming to only one session. Regular participants, however, often demonstrated greater engagement and willingness to provide valuable feedback. Future Coding Cafés will aim to more actively involve these community members.",
+    "crumbs": [
+      "Use Cases",
+      "Tilburg University: Coding Café"
+    ]
   }
 ]
