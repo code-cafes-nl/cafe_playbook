@@ -6,7 +6,7 @@ Our Coding Café is an informal meetup where researchers get together and talk r
 
 And what would be a coding session without a good snack? To keep all your coding brain cells fueled, we will provide a selection of freshly delivered pizza 🍕.
 
-**Our GitLab Group:** <https://gitlab.uvt.nl/coding-caf/gitlab-profile>
+**Our GitLab Group:** <https://gitlab.uvt.nl/coding-caf>
 
 ![tiu-cafe](images/tiu-cafe.jpg)
 
