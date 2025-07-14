@@ -4,6 +4,9 @@ project:
 
 book:
   title: "CAFE Playbook"
+  repo-url: https://github.com/code-cafes-nl/cafe_playbook
+  repo-actions: [source, issue]
+  repo-subdir: book
   author: "Neha Moopen, Ashley Cryan, Jonathan de Bruin, Jelle Treep, Stephanie van de Sandt, Meron Vermaas, Lena Karvovskaya, Aleks Wilczynska, Stefan Kirsch"
   date: "4-5-2023"
   chapters:
