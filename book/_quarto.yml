@@ -4,7 +4,7 @@ project:
 
 book:
   title: "CAFE Playbook"
-  author: "Neha Moopen, Ashley Cryan, Jonathan de Bruin, Jelle Treep, Stephanie van de Sandt, Meron Vermaas, Lena Karvovskaya, Aleks Wilczynska"
+  author: "Neha Moopen, Ashley Cryan, Jonathan de Bruin, Jelle Treep, Stephanie van de Sandt, Meron Vermaas, Lena Karvovskaya, Aleks Wilczynska, Stefan Kirsch"
   date: "4-5-2023"
   chapters:
     - index.qmd
@@ -19,6 +19,7 @@ book:
       - uu.qmd
       - vu.qmd
       - tu-delft.qmd
+      - tiu.qmd
 
 bibliography: references.bib
 
