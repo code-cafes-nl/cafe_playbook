@@ -1,3 +1,7 @@
+---
+date-modified: today
+---
+
 # Vrije Universiteit Amsterdam: Bytes & Bites {.unnumbered}
 
 _Do you want to meet other researchers, improve your programming skills, or ask questions related to programming? Pick up your laptop and come to the first edition of the Bytes & Bites._
@@ -12,7 +16,7 @@ _Do you want to meet other researchers, improve your programming skills, or ask 
 
 We are newcomers in the landscape of programming cafes in the Netherlands, but determined to establish *Bytes & Bites* as a constant in everyone's calendars. 
 
-Bytes & Bites has been running monthly meetings since April 2023 and was inspired by Utrecht University’s Programming Café and the Programming Café at TU Delft. Our journey started at the university library with organizing Carpentry courses for software beginners, but mastering the art of programming requires constant challenges. Where can you get help when you're stuck and how can programming stay fun? Most of the programming initiatives at the VU focus on a specific community and are not open for everyone. Thus we joined forces with already existing software communities and created an event series that does not replace any other community events, but rather connects existing initiatives.
+Bytes & Bites has been running monthly meetings since April 2023 and was inspired by Utrecht University’s Programming Café and the Programming Café at TU Delft. It was started by Meron Vermaas, Lena Karvovskaya, Brett Olivier, Peter Stol, Max Paulus, and Stephanie van de Sandt. Our journey started at the university library with organizing Carpentry courses for software beginners, but mastering the art of programming requires constant challenges. Where can you get help when you're stuck and how can programming stay fun? Most of the programming initiatives at the VU focus on a specific community and are not open for everyone. Thus we joined forces with already existing software communities and created an event series that does not replace any other community events, but rather connects existing initiatives.
 
 With Bytes & Bites our dream of an inclusive software community event became a reality.
 
@@ -28,5 +32,5 @@ However, we guarantee that you will always have enough time for the truly import
 
 ## More information? 
   
-Bytes & Bites is an initiative of the VU university library in collaboration with data stewards and engaged members of the VU software community. The main organizers are Meron Vermaas, Lena Karvovskaya, Brett Olivier, Peter Stol, Max Paulus, and Stephanie van de Sandt. For questions or more information, please contact m.vermaas(at)vu.nl or s.van.de.sandt(at)vu.nl. You can also find us on [GitHub](https://ubvu.github.io/bytes-and-bites/).
+Bytes & Bites is an initiative of the VU university library in collaboration with data stewards and engaged members of the VU software community. The main organizer is Charlie Greene, c.c.greene [at] vu.nl. You can also find us on [GitHub](https://ubvu.github.io/bytes-and-bites/).
 

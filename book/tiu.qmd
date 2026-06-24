@@ -1,3 +1,7 @@
+---
+date-modified: today
+---
+
 # Tilburg University: Coding Café {.unnumbered}
 
 *Do you want to learn how to write better code? Finally learn version control? Make your code more robust? Figure out how to smoothly write software within teams? Then the Coding Café might just be your cup of tea* ☕*!*
