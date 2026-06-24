@@ -8,9 +8,13 @@ _Do you want to meet other researchers, improve your programming skills, or ask 
 
 **Website:** [https://ubvu.github.io/bytes-and-bites/](https://ubvu.github.io/bytes-and-bites/)
 
-![vu-cafe-1](images/vu-cafe-1.jpg)
+::: {layout-ncol="2"}
+![](images/vu-cafe-1.jpg){.lightbox group="vu-cafe"}
 
-![vu-cafe-2](images/vu-cafe-2.jpg)
+![](images/vu-cafe-2.jpg){.lightbox group="vu-cafe"}
+
+A session at the VU Bytes & Bites
+:::
 
 ## Who we are
 

@@ -8,11 +8,13 @@ _Do you want to improve your programming skills, ask questions related to progra
 
 **Website:** <https://www.uu.nl/en/research/research-data-management/workshops/programming-cafe-0>
 
-**Github:** [UtrechtUniversity/programming-cafe](https://github.com/UtrechtUniversity/programming-cafe)
+::: {layout-ncol="2"}
+![](images/uu-cafe-2.png){.lightbox group="uu-cafe" fig-alt="A person standing in front of a screen with a presentation slide saying 'Basics of reproducible project management'."}
 
-![uu-cafe-1](images/uu-cafe-1.png)
+![](images/uu-cafe-1.png){.lightbox group="uu-cafe" fig-alt="A picture of a room with people sitting at tables spread out around the room. Some people have laptops open. The people are all looking in the same direction."}
 
-![uu-cafe-2](images/uu-cafe-2.png)
+A session at the Utrecht University Programming Cafe
+:::
 
 ## Who we are
 

@@ -12,7 +12,7 @@ And what would be a coding session without a good snack? To keep all your coding
 
 **Our GitLab Group:** <https://gitlab.uvt.nl/coding-caf>
 
-![tiu-cafe](images/tiu-cafe.jpg)
+![Tilburg University Coding Cafe](images/tiu-cafe.jpg){.lightbox fig-alt="A picture showing a row of six open pizza boxes on a table in the back, with people working on their laptops in the row in front."}
 
 ## Setup
 

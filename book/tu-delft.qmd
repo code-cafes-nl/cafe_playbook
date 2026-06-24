@@ -6,11 +6,14 @@ date-modified: today
 
 _Do you want to build your skills in the programming language R, write R code with others, or ask questions about working with R?_
 
-**Website:** [https://delft-rcafe.github.io/home/Index.html](https://delft-rcafe.github.io/home/Index.html)
+**Website:** [https://delft-rcafe.github.io/home](https://delft-rcafe.github.io/home)
 
-![tu-delft-cafe](images/tu-delft-cafe-1.jpg)
+::: {layout-ncol="2"}
+![A session at the TU Delft R Cafe](images/tu-delft-cafe-1.jpg){.lightbox group="rcafe-gallery" fig-alt="A picture taken from the back of a classroom. at the front is a person standing in front of two screens. Facing the front are two rows of people sitting at tables with their laptops open."}
 
-![tu-delft-cafe](images/tu-delft-cafe-2.jpg)
+![A different session at the TU Delft R Cafe](images/tu-delft-cafe-2.jpg){.lightbox group="rcafe-gallery"}
+:::
+
 
 ## Who we are
 
