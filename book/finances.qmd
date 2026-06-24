@@ -1,0 +1,58 @@
+# Finances {.unnumbered}
+
+Haven’t we all found ourselves in the following situation? Fully motivated to start a new initiative or keep one going, only to realize that you need to allocate a budget for it and inform your manager about the expected costs, but you have no idea where to start or what to keep in mind. To make matters worse, you might even find yourself slightly over budget after the first session. And then, there’s the ongoing task of reporting on those costs throughout the year. 
+This overview might help you with these challenges:
+
+## How to stay within your budget
+The first step to staying within your budget is to plan for one. Ask your corresponding manager as early as possible how much budget they can allocate for your Café. If you need to provide an estimation, this section might help you:
+
+While many costs are generated only initially (e.g., for stickers, rubber ducks and posters), others will be recurring (e.g., pizza and drinks). We usually keep the following costs in mind:
+
+Setting up (optional):
+
+- Stickers (100 are enough for a start)
+- Posters 
+- Flyers
+- Rubber ducks (always good to have)
+
+Recurring:
+
+- Pizza (or other food)
+- Drinks
+
+If you estimate an average of 15 participants per Café and plan for 10 Cafés per year (accounting for the possibility of one being canceled or skipped during summer), you can create a rough cost estimate after choosing your (favorite) pizzeria.
+
+And now it's all about keeping track and planning ahead! 
+
+::: {.callout-tip}
+Some in-house caterers may offer pizza at a reasonable price, but it might not be included in their standard menu. It could be worth reaching out to them to find out!"
+:::
+
+## But how much do I actually need?
+Let’s assume that three participants share one pizza that would mean that you would need to order 5 pizzas per Café. The required amount of drinks can vary. If you order drinks through your in-house catering, they can provide advice on the appropriate quantity.
+
+::: {.callout-note}
+The number of registrations can vary, which can influence the amount of pizza you need to order. It’s helpful to keep this in mind when planning your budget.
+:::
+
+An example calculation would be:
+
+| Order | Costs per serving/person | Total |
+|---|---|---|---|
+| 5 Pizzas | 12 Euro per pizza | 60 Euro |
+| Drinks for 15 | 3 Euro per person | 45 Euro |
+| Plates, cutlery, paper towels | 2 Euros each | 6 Euro |
+
+This would mean that the total costs per Café are 111 Euro. If you account for a whole year of Cafés, it could cost around 1100 Euros. 
+
+## How to keep track of the costs
+While it might seem obvious, many of us have been there: You need to send in proof of the costs spent, but you haven’t kept the invoices or you cannot find them in your mailboxes (or drawers at home or in the office), and you forgot to document them somewhere. To directly tackle this stress, it is better to store and document the invoices immediately somewhere (that you won’t forget about).
+Be it a physical folder (e.g., full of bills from the local pizzeria) or a folder in your institutional SharePoint (e.g., for bills from university catering), it’s always good to document every cost made and be able to prove them as well. 
+
+Once you have an allocated budget, it’s useful to keep a table that tracks your available budget (e.g., per year) alongside the expenses incurred. It could look something like this:
+
+| Café | Registrations | Number of pizzas | Costs for pizzas | Drinks | Costs for drinks | Other costs | Total costs | 
+|---------|-----|------|------|------|------|------|------|
+| Programming Café January |15|5|60|15|40|6|110|
+| Programming Café February |15|5|60|15|40|6|110|
+| Programming Café March |15|5|60|15|40|6|110|
