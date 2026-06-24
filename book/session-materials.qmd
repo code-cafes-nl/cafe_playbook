@@ -1,5 +1,4 @@
-# Session materials
-
+# Session materials {.unnumbered}
 
 ```{=html}
 <link rel="stylesheet" property="stylesheet" href="https://elixirtess.github.io/TeSS_widgets/css/tess-widget.css"/>

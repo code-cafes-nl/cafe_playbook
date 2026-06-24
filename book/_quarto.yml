@@ -16,6 +16,7 @@ book:
     - logistics.qmd
     - format.qmd
     - community.qmd
+    - session-materials.qmd
     - summary.qmd
     - part: "Use Cases"
       chapters:
