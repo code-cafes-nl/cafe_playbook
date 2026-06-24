@@ -1,12 +1,19 @@
+---
+date-modified: today
+---
+
 # TU Delft: R Café {.unnumbered}
 
 _Do you want to build your skills in the programming language R, write R code with others, or ask questions about working with R?_
 
-**Website:** [https://delft-rcafe.github.io/home/Index.html](https://delft-rcafe.github.io/home/Index.html)
+**Website:** [https://delft-rcafe.github.io/home](https://delft-rcafe.github.io/home)
 
-![tu-delft-cafe](images/tu-delft-cafe-1.jpg)
+::: {layout-ncol="2"}
+![A session at the TU Delft R Cafe](images/tu-delft-cafe-1.jpg){.lightbox group="rcafe-gallery" fig-alt="A picture taken from the back of a classroom. at the front is a person standing in front of two screens. Facing the front are two rows of people sitting at tables with their laptops open."}
 
-![tu-delft-cafe](images/tu-delft-cafe-2.jpg)
+![A different session at the TU Delft R Cafe](images/tu-delft-cafe-2.jpg){.lightbox group="rcafe-gallery"}
+:::
+
 
 ## Who we are
 
@@ -14,7 +21,7 @@ We’re a group of R enthusiasts from across the TU Delft community who meet mon
 
 Together we make up a supportive community of practice for researchers to share knowledge and learn with each other in an open and informal setting.
 
-Our initiative has been running monthly meetings since November 2021 and was inspired by Utrecht University’s Programming Café.
+Our initiative was started by Ashley Cryan and Aleksandra Wilczynska, inspired by Utrecht University’s Programming Café, and has been running monthly meetings since November 2021.
 
 ## Who can join
 
@@ -28,5 +35,5 @@ We take a hands-on approach to work through problems and always have RStudio ope
 
 ## More information? 
 
-The R Cafe is an initiative of the TU Delft Library Research Data Services Team and the Digital Competence Centre. The organizers are Ashley Cryan and Aleksandra Wilczynska. For questions or more information, please contact rcafe-lib@tudelft.nl. You can also find us on [GitHub](https://github.com/Delft-RCafe/resources) and via our [website](https://delft-rcafe.github.io/home/Index.html).
+The R Cafe is an initiative of the TU Delft Library Research Data Services Team and the Digital Competence Centre. The organizers are Aleksandra Wilczynska and Bjorn Bartholdy. For questions or more information, please contact rcafe-lib [at] tudelft.nl. You can also find us on [GitHub](https://github.com/Delft-RCafe/) and via our [website](https://delft-rcafe.github.io/home).
 
