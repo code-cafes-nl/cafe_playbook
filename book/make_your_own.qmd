@@ -1,0 +1,97 @@
+# Intro
+
+This guide is to show you how you can make your own logo using the materials provided. The amazing [juuls.art](https://www.instagram.com/juuls.art/) ([website](https://juulsart.my.canva.site/)) provided all the drawings under the theme of personalised rubber duck. 
+
+Thank you Julianne! :)
+
+
+## Why a rubber duck?
+
+In programming you can often get stuck when debugging. A confusing error message can send you off on the wrong path, but even worse is when the code runs without errors and still has the wrong output. ARGHH! In that case you might read through your whole script and still not find why it isn't working, welcome the observer. Ideally you can ask another programmer, failing that your pet, but if neither are available then you can always rely on your trusty rubber duck. You walk the rubber duck through your project, step by step and - as if by magic - the problem will reveal itself to you!
+
+To pay homage to the "patron saint" of programming we have a rubber duck as our logo and thought you might like one that reflects your CAFE or institution.
+
+
+# Requirements
+
+- Image editing software - there are plenty of free options, paint works well enough. If you want something with a little more control check out [GIMP](https://www.gimp.org/) (open source alternative to photoshop) or [inkscape](https://inkscape.org/) (open source alternative to illustrator)
+- 15 minutes
+- A little inspiration
+
+
+# Step 1
+
+![Inside the duck base folder](../logo_materials/guide_images/step1.png)
+
+Choose your base from the different options.
+
+
+# Step 2
+
+![Opened base file](../logo_materials/guide_images/step2.png)
+
+Open the image, right click and choose 'copy'.
+
+
+# Step 3
+
+![Our chosen duck base open in GIMP](../logo_materials/guide_images/step3.png)
+
+Open GIMP (or another image editor) and press ctrl shift v (or just ctrl v for other programs). This will create a new file with a copy of the image.
+
+
+# Step 3.5 (optional)
+
+You can remove the white background in GIMP by doing the following. 
+
+![The Select by Color Tool](../logo_materials/guide_images/step351.png)
+
+Press on this highlighted tool and then click on the white background. Now press the delete button on your keyboard to remove the white. 
+
+![The white in the image is selected before being deleted](../logo_materials/guide_images/step352.png)
+
+You can deselect the now empty area by pressing shift + ctrl + A (select none).
+
+
+# Step 4
+
+
+Choose eyes and accessories and copy and paste them into the image editor. If you are using paint then you must start with the bottom layer and move it into position before copying the next image. If you are using a tool with layers, like GIMP, then you can add each part as a new layer to allow infinite adjustments.
+
+Add a layer like so.
+
+![Press the highlighted button to add a new layer](../logo_materials/guide_images/step41.png)
+
+![This window will pop up allowing you to name the layer, amongst other options](../logo_materials/guide_images/step42.png)
+
+Make sure that your layers are in the correct order. You can left click and drag layers to move them up or down in the order. We want the eyes layer on top so that we can see them!
+
+![Look in the bottom right corner to check the layer order](../logo_materials/guide_images/step43.png)
+
+Open the eyes file you want, right click, copy, and ctrl + v into your image editor (make sure you are in the correct layer - eyes). Move your eyes into position with the Move Tool, or if using paint just hold left click and drag.
+
+![The Move Tool](../logo_materials/guide_images/step44.png)
+
+If your eyes came with a white (or another colour) background you can remove it using a similar process as in [step 3.5](#step-3.5-(optional)). Instead to preserve the white inside the eyes we use a different tool, the Fuzzy Tool. 
+
+![It is in the same spot as the Select by Color Tool](../logo_materials/guide_images/step45.png)
+
+To find it hold left click on the Find by Color Tool and let go of left click when hovering over the Fuzzy Tool. Click on the white background and you'll see that just the background is selected, you can press the delete button on your keyboard and shift + ctrl + A to deselect the area.
+
+![White background is selected ready to be deleted](../logo_materials/guide_images/step46.png)
+
+If the eyes are on a new layer you can either rename the layer or you can merge it to the named layer.
+
+![Double left click on the name of the layer to change its name](../logo_materials/guide_images/step47.png)
+
+![Right click and select Merge Down to merge the selected layer and the layer below it into one](../logo_materials/guide_images/step48.png)
+
+You can repeat this process with any accessories you like until you're happy with your duck!
+
+# Step 5
+
+Save your work and export into the format you want (we recommend png). 
+
+![Choose your file type here by changing the ending of the name](../logo_materials/guide_images/step51.png)
+
+![Here you can choose compression levels, that can be useful as the images are high resolution](../logo_materials/guide_images/step52.png)
