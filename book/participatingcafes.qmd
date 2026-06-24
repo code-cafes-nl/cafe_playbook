@@ -1,0 +1,28 @@
+# Community {.unnumbered}
+
+Since the Coding Café project began last year, new Cafés have been launched, some gained fresh momentum, and others decided to join this network. This is great news, since it shows that we are not alone!
+
+Find an overview of all participating Cafés here:
+
+::: {layout-ncol=4}
+[![Bytes and Bites](images/amsterdam_bytesbites.png.jpeg){height=1.5in}](https://ubvu.github.io/bytes-and-bites/)
+
+[![Utrecht Programming Café](images/utrecht_cafe.png){height=1.5in}](https://www.uu.nl/en/research/research-data-management/workshops/programming-cafe-0)
+
+[![TU Delft R Café](images/delft_rcafe.png){height=1.5in}](https://delft-rcafe.github.io/home/)
+
+[![Erasmus University Programming Café](images/rotterdam_programmingcafe.jpg){height=1.5in}](https://eur-nl.github.io/programming-cafe/)
+
+[![Erasmus MC Coding Café](images/erasmusmc_cafe.png){height=1.5in}](https://seredef.github.io/EMC-coding-cafe/)
+
+[![Groningen Code Café](images/groningen_code-cafe.png){height=1.5in}](https://www.rug.nl/digital-competence-centre/calendar/2026/code-cafe-08-05-2026?lang=en)
+
+[![Programming on the Vlaai at Maastricht University](images/Maastricht_Vlaai.jpg){height=1.5in}](https://maastrichtu-library.github.io/programming-on-the-vlaai/)
+:::
+
+::: {layout-ncol=4}
+
+# Other Cafés
+
+[![BE Coding Café at TU Eindhoven](images/eindhoven_becafe.png){width=1.5in}](https://www.becodingcafe.com)
+:::
