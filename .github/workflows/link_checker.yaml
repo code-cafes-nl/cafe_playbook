@@ -19,5 +19,5 @@ jobs:
         id: lychee
         uses: lycheeverse/lychee-action@v2
         with:
-          args: --verbose --no-progress './**/*.qmd' --max-retries 2 --accept 429
+          args: --verbose --no-progress './**/*.qmd' --max-retries 2 --accept '200..=204, 429'
           fail: true
