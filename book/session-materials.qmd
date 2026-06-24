@@ -16,7 +16,8 @@ function initTeSSWidgets() {
                 truncateLength: 0
             },
             params: {
-                collections: ['CAFE (Code Along, Feel Empowered)']
+                collections: ['CAFE (Code Along, Feel Empowered)'],
+                sort: 'mod'
             },
             baseUrl: 'https://taxila.nl/'
         });
