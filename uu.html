@@ -45,6 +45,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap-685776c66c8ee19d939709ffef199f6e.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -221,6 +224,12 @@ ul.task-list li input[type="checkbox"] {
 
     
   
+    <div>
+    <div class="quarto-title-meta-heading">Modified</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date-modified">June 24, 2026</p>
+    </div>
+  </div>
     
   </div>
   
@@ -230,19 +239,21 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p><em>Do you want to improve your programming skills, ask questions related to programming, or meet other researchers? Pick up your laptop and come to the Programming Café!</em></p>
-<p><strong>Website:</strong> <a href="https://www.uu.nl/en/research/research-data-management/walk-in-hours-workshops/programming-cafe">https://www.uu.nl/en/research/research-data-management/walk-in-hours-workshops/programming-cafe</a></p>
-<p><strong>Github:</strong> <a href="https://github.com/UtrechtUniversity/programming-cafe">UtrechtUniversity/programming-cafe</a></p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/uu-cafe-1.png" class="img-fluid figure-img"></p>
-<figcaption>uu-cafe-1</figcaption>
-</figure>
+<p><strong>Website:</strong> <a href="https://www.uu.nl/en/research/research-data-management/workshops/programming-cafe-0" class="uri">https://www.uu.nl/en/research/research-data-management/workshops/programming-cafe-0</a></p>
+<div class="quarto-layout-panel" data-layout-ncol="2">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><a href="images/uu-cafe-2.png" class="lightbox" data-gallery="uu-cafe"><img src="images/uu-cafe-2.png" class="img-fluid" alt="A person standing in front of a screen with a presentation slide saying 'Basics of reproducible project management'."></a></p>
 </div>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/uu-cafe-2.png" class="img-fluid figure-img"></p>
-<figcaption>uu-cafe-2</figcaption>
-</figure>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<p><a href="images/uu-cafe-1.png" class="lightbox" data-gallery="uu-cafe"><img src="images/uu-cafe-1.png" class="img-fluid" alt="A picture of a room with people sitting at tables spread out around the room. Some people have laptops open. The people are all looking in the same direction."></a></p>
+</div>
+</div>
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<p>A session at the Utrecht University Programming Cafe</p>
+</div>
+</div>
 </div>
 <section id="who-we-are" class="level2">
 <h2 class="anchored" data-anchor-id="who-we-are">Who we are</h2>
@@ -255,11 +266,11 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="community-meetings" class="level2">
 <h2 class="anchored" data-anchor-id="community-meetings">Community Meetings</h2>
-<p>The Programming Café takes place on a monthly basis, and it will last about two hours (usually towards the end of the workday). Registration is not required. See the GitHub page <a href="https://github.com/UtrechtUniversity/programming-cafe">UtrechtUniversity/programming-cafe</a> for more information.</p>
+<p>The Programming Café takes place on a monthly basis, and it will last about two hours (usually towards the end of the workday). Registration is not required. See the <a href="https://www.uu.nl/en/research/research-data-management/workshops/programming-cafe-0">website</a> for more information.</p>
 </section>
 <section id="more-information" class="level2">
 <h2 class="anchored" data-anchor-id="more-information">More information?</h2>
-<p>The Programming Cage is an initiative of <a href="https://www.uu.nl/en/research/research-data-management">Research Data Management Support</a> at Utrecht University. The current organizers are Neha Moopen &amp; Jelle Treep. For more information, you can contact the organizers via info.rdm(at)uu.nl or keep up with the GitHub page (and eventual website): <a href="https://github.com/UtrechtUniversity/programming-cafe">UtrechtUniversity/programming-cafe</a></p>
+<p>The Programming Cage is an initiative of <a href="https://www.uu.nl/en/research/research-data-management">Research Data Management Support</a> at Utrecht University. The current organizers are Neha Moopen &amp; Jelle Treep. For more information, you can contact the organizers via info.rdm [at] uu.nl or keep up with the website.</p>
 
 
 </section>
@@ -678,8 +689,40 @@ ul.task-list li input[type="checkbox"] {
   </div>
 </nav>
 </div> <!-- /content -->
+<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/code-cafes-nl/cafe_playbook/blob/main/book/uu.qmd" class="toc-action"><i class="bi bi-github"></i>View source</a></li><li><a href="https://github.com/code-cafes-nl/cafe_playbook/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div></div></footer><script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 
 
-<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/code-cafes-nl/cafe_playbook/blob/main/book/uu.qmd" class="toc-action"><i class="bi bi-github"></i>View source</a></li><li><a href="https://github.com/code-cafes-nl/cafe_playbook/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div></div></footer></body></html>
+</body></html>
