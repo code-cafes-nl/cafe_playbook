@@ -14,12 +14,14 @@ book:
     - intro.qmd
     - organization.qmd
     - logistics.qmd
+    - finances.qmd
     - format.qmd
     - community.qmd
     - session-materials.qmd
     - summary.qmd
-    - part: "Use Cases"
+    - part: "Participating Cafés & Use Cases"
       chapters:
+      - participatingcafes.qmd
       - uu.qmd
       - vu.qmd
       - tu-delft.qmd
