@@ -140,6 +140,46 @@
     ]
   },
   {
+    "objectID": "finances.html",
+    "href": "finances.html",
+    "title": "Finances",
+    "section": "",
+    "text": "How to stay within your budget\nHaven’t we all found ourselves in the following situation? Fully motivated to start a new initiative or keep one going, only to realize that you need to allocate a budget for it and inform your manager about the expected costs, but you have no idea where to start or what to keep in mind. To make matters worse, you might even find yourself slightly over budget after the first session. And then, there’s the ongoing task of reporting on those costs throughout the year. This overview might help you with these challenges:\nThe first step to staying within your budget is to plan for one. Ask your corresponding manager as early as possible how much budget they can allocate for your Café. If you need to provide an estimation, this section might help you:\nWhile many costs are generated only initially (e.g., for stickers, rubber ducks and posters), others will be recurring (e.g., pizza and drinks). We usually keep the following costs in mind:\nSetting up (optional):\nRecurring:\nIf you estimate an average of 15 participants per Café and plan for 10 Cafés per year (accounting for the possibility of one being canceled or skipped during summer), you can create a rough cost estimate after choosing your (favorite) pizzeria.\nAnd now it’s all about keeping track and planning ahead!",
+    "crumbs": [
+      "Finances"
+    ]
+  },
+  {
+    "objectID": "finances.html#how-to-stay-within-your-budget",
+    "href": "finances.html#how-to-stay-within-your-budget",
+    "title": "Finances",
+    "section": "",
+    "text": "Stickers (100 are enough for a start)\nPosters\nFlyers\nRubber ducks (always good to have)\n\n\n\nPizza (or other food)\nDrinks\n\n\n\n\n\n\n\n\n\nTip\n\n\n\nSome in-house caterers may offer pizza at a reasonable price, but it might not be included in their standard menu. It could be worth reaching out to them to find out!”",
+    "crumbs": [
+      "Finances"
+    ]
+  },
+  {
+    "objectID": "finances.html#but-how-much-do-i-actually-need",
+    "href": "finances.html#but-how-much-do-i-actually-need",
+    "title": "Finances",
+    "section": "But how much do I actually need?",
+    "text": "But how much do I actually need?\nLet’s assume that three participants share one pizza that would mean that you would need to order 5 pizzas per Café. The required amount of drinks can vary. If you order drinks through your in-house catering, they can provide advice on the appropriate quantity.\n\n\n\n\n\n\nNote\n\n\n\nThe number of registrations can vary, which can influence the amount of pizza you need to order. It’s helpful to keep this in mind when planning your budget.\n\n\nAn example calculation would be:\n\n\n\nOrder\nCosts per serving/person\nTotal\n\n\n\n\n\n5 Pizzas\n12 Euro per pizza\n60 Euro\n\n\n\nDrinks for 15\n3 Euro per person\n45 Euro\n\n\n\nPlates, cutlery, paper towels\n2 Euros each\n6 Euro\n\n\n\n\nThis would mean that the total costs per Café are 111 Euro. If you account for a whole year of Cafés, it could cost around 1100 Euros.",
+    "crumbs": [
+      "Finances"
+    ]
+  },
+  {
+    "objectID": "finances.html#how-to-keep-track-of-the-costs",
+    "href": "finances.html#how-to-keep-track-of-the-costs",
+    "title": "Finances",
+    "section": "How to keep track of the costs",
+    "text": "How to keep track of the costs\nWhile it might seem obvious, many of us have been there: You need to send in proof of the costs spent, but you haven’t kept the invoices or you cannot find them in your mailboxes (or drawers at home or in the office), and you forgot to document them somewhere. To directly tackle this stress, it is better to store and document the invoices immediately somewhere (that you won’t forget about). Be it a physical folder (e.g., full of bills from the local pizzeria) or a folder in your institutional SharePoint (e.g., for bills from university catering), it’s always good to document every cost made and be able to prove them as well.\nOnce you have an allocated budget, it’s useful to keep a table that tracks your available budget (e.g., per year) alongside the expenses incurred. It could look something like this:\n\n\n\n\n\n\n\n\n\n\n\n\n\nCafé\nRegistrations\nNumber of pizzas\nCosts for pizzas\nDrinks\nCosts for drinks\nOther costs\nTotal costs\n\n\n\n\nProgramming Café January\n15\n5\n60\n15\n40\n6\n110\n\n\nProgramming Café February\n15\n5\n60\n15\n40\n6\n110\n\n\nProgramming Café March\n15\n5\n60\n15\n40\n6\n110",
+    "crumbs": [
+      "Finances"
+    ]
+  },
+  {
     "objectID": "format.html",
     "href": "format.html",
     "title": "Format",
@@ -260,13 +300,24 @@
     ]
   },
   {
+    "objectID": "participatingcafes.html",
+    "href": "participatingcafes.html",
+    "title": "Overview Cafés",
+    "section": "",
+    "text": "Since the Coding Café project began last year, new Cafés have been launched, some gained fresh momentum, and others decided to join this network. This is great news, since it shows that we are not alone!\nFind an overview of all participating Cafés here:\n\n\n\n\n\n\nBytes and Bites\n\n\n\n\n\n\n\nUtrecht Programming Café\n\n\n\n\n\n\n\nTU Delft R Café\n\n\n\n\n\n\n\nErasmus University Programming Café\n\n\n\n\n\n\n\n\n\nErasmus MC Coding Café\n\n\n\n\n\n\n\nGroningen Code Café\n\n\n\n\n\n\n\nProgramming on the Vlaai at Maastricht University\n\n\n\n\n\n\nOther Cafés\n\n\n\n\n\n\nBE Coding Café at TU Eindhoven",
+    "crumbs": [
+      "Participating Cafés & Use Cases",
+      "Overview Cafés"
+    ]
+  },
+  {
     "objectID": "uu.html",
     "href": "uu.html",
     "title": "Utrecht University: Programming Café",
     "section": "",
     "text": "Who we are\nDo you want to improve your programming skills, ask questions related to programming, or meet other researchers? Pick up your laptop and come to the Programming Café!\nWebsite: https://www.uu.nl/en/research/research-data-management/workshops/programming-cafe-0\nThe Programming Cafe at Utrecht University is an informal meet-up, where we share knowledge about programming through short presentations/demos and also help each other with challenges in working with code and data.\nThe Programming Café is a ‘relaunch’ of the popular R Café external link community event that used to take place before the coronavirus outbreak. We were happy to broaden the event to include programming languages other than R.",
     "crumbs": [
-      "Use Cases",
+      "Participating Cafés & Use Cases",
       "Utrecht University: Programming Café"
     ]
   },
@@ -277,7 +328,7 @@
     "section": "Who can join",
     "text": "Who can join\nEveryone is welcome at the Programming Café. We expect most attendees will be R or Python users, but users of other programming languages and software are invited as well. Attendees can be of any skill level and at any stage in working with code and data. Attendees can bring your programming problems to work on or discuss with the others. Even if you do not have an issue, you’re welcome at the Café - just to work on code or try out the exercises that have been prepared.",
     "crumbs": [
-      "Use Cases",
+      "Participating Cafés & Use Cases",
       "Utrecht University: Programming Café"
     ]
   },
@@ -288,7 +339,7 @@
     "section": "Community Meetings",
     "text": "Community Meetings\nThe Programming Café takes place on a monthly basis, and it will last about two hours (usually towards the end of the workday). Registration is not required. See the website for more information.",
     "crumbs": [
-      "Use Cases",
+      "Participating Cafés & Use Cases",
       "Utrecht University: Programming Café"
     ]
   },
@@ -299,7 +350,7 @@
     "section": "More information?",
     "text": "More information?\nThe Programming Cage is an initiative of Research Data Management Support at Utrecht University. The current organizers are Neha Moopen & Jelle Treep. For more information, you can contact the organizers via info.rdm [at] uu.nl or keep up with the website.",
     "crumbs": [
-      "Use Cases",
+      "Participating Cafés & Use Cases",
       "Utrecht University: Programming Café"
     ]
   },
@@ -310,7 +361,7 @@
     "section": "",
     "text": "Who we are\nDo you want to meet other researchers, improve your programming skills, or ask questions related to programming? Pick up your laptop and come to the first edition of the Bytes & Bites.\nWebsite: https://ubvu.github.io/bytes-and-bites/\nWe are newcomers in the landscape of programming cafes in the Netherlands, but determined to establish Bytes & Bites as a constant in everyone’s calendars.\nBytes & Bites has been running monthly meetings since April 2023 and was inspired by Utrecht University’s Programming Café and the Programming Café at TU Delft. It was started by Meron Vermaas, Lena Karvovskaya, Brett Olivier, Peter Stol, Max Paulus, and Stephanie van de Sandt. Our journey started at the university library with organizing Carpentry courses for software beginners, but mastering the art of programming requires constant challenges. Where can you get help when you’re stuck and how can programming stay fun? Most of the programming initiatives at the VU focus on a specific community and are not open for everyone. Thus we joined forces with already existing software communities and created an event series that does not replace any other community events, but rather connects existing initiatives.\nWith Bytes & Bites our dream of an inclusive software community event became a reality.",
     "crumbs": [
-      "Use Cases",
+      "Participating Cafés & Use Cases",
       "Vrije Universiteit Amsterdam: Bytes & Bites"
     ]
   },
@@ -321,7 +372,7 @@
     "section": "Who can join",
     "text": "Who can join\nBytes & Bites is for you - no matter if you have just started to print  or rule by code; if you are team Python or R - Bytes & Bites is for everyone interested in programming tools and computational research. Bytes & Bites is an event series for the broader VU community and friends who would like to work on their programming skills. Come, join, and find out who is working on what project in and outside your usual community,or kick-off new collaborations. You can also work with your friends and colleagues on your scripts, solve coding puzzles, or discuss new computational challenges and developments in your field.",
     "crumbs": [
-      "Use Cases",
+      "Participating Cafés & Use Cases",
       "Vrije Universiteit Amsterdam: Bytes & Bites"
     ]
   },
@@ -332,7 +383,7 @@
     "section": "Community meetings",
     "text": "Community meetings\nWe organize Bytes & Bites as monthly peer support events for researchers and students who are interested in coding. You can find us once a month on a Tuesday or Thursday afternoon (16:00 - 18:00) at the VU in Amsterdam. That does not mean that you have to spend two hours coding, everyone is welcome to walk-in and walk-out at any time and follow their interests. We only organize the room, 🍕 (!) and guest presenters for changing themes. The program of each session varies since Bytes & Bites is still pretty young and we have to figure out together with you what works and what does not.\nHowever, we guarantee that you will always have enough time for the truly important things: chats and pizza!",
     "crumbs": [
-      "Use Cases",
+      "Participating Cafés & Use Cases",
       "Vrije Universiteit Amsterdam: Bytes & Bites"
     ]
   },
@@ -343,7 +394,7 @@
     "section": "More information?",
     "text": "More information?\nBytes & Bites is an initiative of the VU university library in collaboration with data stewards and engaged members of the VU software community. The main organizer is Charlie Greene, c.c.greene [at] vu.nl. You can also find us on GitHub.",
     "crumbs": [
-      "Use Cases",
+      "Participating Cafés & Use Cases",
       "Vrije Universiteit Amsterdam: Bytes & Bites"
     ]
   },
@@ -354,7 +405,7 @@
     "section": "",
     "text": "Who we are\nDo you want to build your skills in the programming language R, write R code with others, or ask questions about working with R?\nWebsite: https://delft-rcafe.github.io/home\nWe’re a group of R enthusiasts from across the TU Delft community who meet monthly to discuss questions from the very broad, “Why should I use R?” to the hyper-specific, “Why is my code not working?!”\nTogether we make up a supportive community of practice for researchers to share knowledge and learn with each other in an open and informal setting.\nOur initiative was started by Ashley Cryan and Aleksandra Wilczynska, inspired by Utrecht University’s Programming Café, and has been running monthly meetings since November 2021.",
     "crumbs": [
-      "Use Cases",
+      "Participating Cafés & Use Cases",
       "TU Delft: R Café"
     ]
   },
@@ -365,7 +416,7 @@
     "section": "Who can join",
     "text": "Who can join\nThe R Café is open to anyone who works in R or is interested in learning. No prior experience with R is necessary - all are welcome! Many of our members have recently completed the Data Carpentry workshop and are looking for a space to continue practicing R skills with others. You can also join if you’ve got plenty of R experience and want to share some awesome tips and tricks (e.g., about an R package, type of analysis, or visualization) with others.",
     "crumbs": [
-      "Use Cases",
+      "Participating Cafés & Use Cases",
       "TU Delft: R Café"
     ]
   },
@@ -376,7 +427,7 @@
     "section": "Community meetings",
     "text": "Community meetings\nOur monthly meetings usually have a theme which we can touch upon by brief presentations by one or more of our members, exercises for us to work through, a group discussion, or some combination.\nWe take a hands-on approach to work through problems and always have RStudio open for live coding. Because we know our audience, we offer a unique combination of ☕ and 🍕.",
     "crumbs": [
-      "Use Cases",
+      "Participating Cafés & Use Cases",
       "TU Delft: R Café"
     ]
   },
@@ -387,7 +438,7 @@
     "section": "More information?",
     "text": "More information?\nThe R Cafe is an initiative of the TU Delft Library Research Data Services Team and the Digital Competence Centre. The organizers are Aleksandra Wilczynska and Bjorn Bartholdy. For questions or more information, please contact rcafe-lib [at] tudelft.nl. You can also find us on GitHub and via our website.",
     "crumbs": [
-      "Use Cases",
+      "Participating Cafés & Use Cases",
       "TU Delft: R Café"
     ]
   },
@@ -398,7 +449,7 @@
     "section": "",
     "text": "Setup\nDo you want to learn how to write better code? Finally learn version control? Make your code more robust? Figure out how to smoothly write software within teams? Then the Coding Café might just be your cup of tea ☕!\nOur Coding Café is an informal meetup where researchers get together and talk research software! As a community, we will exchange our experiences, challenges, and best practices. The Coding Café is an established format in universities around the country. Inspired by its success, we decided to host our own sessions as well.\nAnd what would be a coding session without a good snack? To keep all your coding brain cells fueled, we will provide a selection of freshly delivered pizza 🍕.\nOur GitLab Group: https://gitlab.uvt.nl/coding-caf\nThe Tilburg University Coding Café is a local implementation of the CAFE playbook. Our sessions have one coding concept that is put in the spotlight. You will learn all you need to get started in a short presentation. After that, you get to practice what you’ve learned hands-on!\nParticipants are also welcome to stray off and find some peers to take a look at your own code. It’s all FAIR game! For example, they can bring their own programming questions, conundrums, and pesky bugs to discuss and (hopefully) resolve with the help of the community!",
     "crumbs": [
-      "Use Cases",
+      "Participating Cafés & Use Cases",
       "Tilburg University: Coding Café"
     ]
   },
@@ -409,7 +460,7 @@
     "section": "Quick info",
     "text": "Quick info\nType of instruction: Community lunch meetup\nTime: 11:00 - 13:00 hrs\nFrequency: Bi-monthly\nPreparation: Bring your own laptop",
     "crumbs": [
-      "Use Cases",
+      "Participating Cafés & Use Cases",
       "Tilburg University: Coding Café"
     ]
   },
@@ -420,7 +471,7 @@
     "section": "Who can attend?",
     "text": "Who can attend?\nThe Coding Café is open to all researchers (including PhDs), support staff and student assistants of Tilburg University. Whether you have never written a line of code in your life or have published a dozen packages on CRAN or PyPI, everyone is welcome.",
     "crumbs": [
-      "Use Cases",
+      "Participating Cafés & Use Cases",
       "Tilburg University: Coding Café"
     ]
   },
@@ -431,7 +482,7 @@
     "section": "Materials",
     "text": "Materials\nThe materials of the invited talks can be found on GitLab where we collect the materials from the invited talks of past sessions. The licenses vary per contribution and can be found there.",
     "crumbs": [
-      "Use Cases",
+      "Participating Cafés & Use Cases",
       "Tilburg University: Coding Café"
     ]
   },
@@ -442,7 +493,7 @@
     "section": "Funding",
     "text": "Funding\nFrom July 2024 to August 2025, the Tilburg University Coding Café has been funded by the Netherlands eScienceCenter within their Fellowship program. The invited talks were held by amazing engineers and teachers from there as well! Thanks so much for making this possible!",
     "crumbs": [
-      "Use Cases",
+      "Participating Cafés & Use Cases",
       "Tilburg University: Coding Café"
     ]
   },
@@ -453,7 +504,7 @@
     "section": "Lessons Learned & Future Recommendations",
     "text": "Lessons Learned & Future Recommendations\nSeveral operational insights emerged over the course of the Coding Café:\n\nPrioritize general and beginner-friendly topics: Accessible topics enhance broad participation, helping newcomers to engage meaningfully with fundamental research software practices.\nStrategic catering timing improves engagement: Shifting catering to the mid-point of events incentivized participation during the open-collaboration portion and improved physical momentum in the room. For this, we changed the times from 12:00–14:00 to 11:00–13:00, with the pizza arriving at the mid-point of the meetup.\nRole of support staff in moderating the hands-on session: Moderation of the open collaboration time is essential and a good ratio of support staff to participants helps with that.\nFacilitate open collaboration with structured prompts: Attendees are often hesitant to engage with each other during the collaborative sessions. As of summer 2025, the Café will pilot prompt cards from the “Open Science Against Humanity” GHOST game, providing structured yet informal conversation starters while maintaining session flexibility. The game is freely available and can be ordered through GHOST’s webpage. GitLab group where we collect the materials from the invited talks of past sessions. The licenses vary per contribution and can be found there.\nLeverage regular attendees (“champions”) as community anchors: Attendance fluctuated across sessions, with most attendants coming to only one session. Regular participants, however, often demonstrated greater engagement and willingness to provide valuable feedback. Future Coding Cafés will aim to more actively involve these community members.",
     "crumbs": [
-      "Use Cases",
+      "Participating Cafés & Use Cases",
       "Tilburg University: Coding Café"
     ]
   }
