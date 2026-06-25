@@ -1,4 +1,4 @@
-# Community {.unnumbered}
+# Overview Cafés {.unnumbered}
 
 Since the Coding Café project began last year, new Cafés have been launched, some gained fresh momentum, and others decided to join this network. This is great news, since it shows that we are not alone!
 
@@ -20,9 +20,9 @@ Find an overview of all participating Cafés here:
 [![Programming on the Vlaai at Maastricht University](images/Maastricht_Vlaai.jpg){height=1.5in}](https://maastrichtu-library.github.io/programming-on-the-vlaai/)
 :::
 
-::: {layout-ncol=4}
-
 # Other Cafés
+
+::: {layout-ncol=4}
 
 [![BE Coding Café at TU Eindhoven](images/eindhoven_becafe.png){width=1.5in}](https://www.becodingcafe.com)
 :::
