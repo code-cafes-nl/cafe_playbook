@@ -11,6 +11,8 @@ Find an overview of all participating Cafés here:
 
 [![TU Delft R Café](images/delft_rcafe.png){height=1.5in}](https://delft-rcafe.github.io/home/)
 
+[![Tilburg University Coding Café](images/tilburg_Coding_GOAT.jpg){height=1.5in}](https://gitlab.uvt.nl/coding-caf)
+
 [![Erasmus University Programming Café](images/rotterdam_programmingcafe.jpg){height=1.5in}](https://eur-nl.github.io/programming-cafe/)
 
 [![Erasmus MC Coding Café](images/erasmusmc_cafe.png){height=1.5in}](https://seredef.github.io/EMC-coding-cafe/)
