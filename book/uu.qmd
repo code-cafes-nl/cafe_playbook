@@ -1,14 +1,20 @@
+---
+date-modified: today
+---
+
 # Utrecht University: Programming Café {.unnumbered}
 
 _Do you want to improve your programming skills, ask questions related to programming, or meet other researchers? Pick up your laptop and come to the Programming Café!_
 
-**Website:** [https://www.uu.nl/en/research/research-data-management/walk-in-hours-workshops/programming-cafe](https://www.uu.nl/en/research/research-data-management/walk-in-hours-workshops/programming-cafe)
+**Website:** <https://www.uu.nl/en/research/research-data-management/workshops/programming-cafe-0>
 
-**Github:** [UtrechtUniversity/programming-cafe](https://github.com/UtrechtUniversity/programming-cafe)
+::: {layout-ncol="2"}
+![](images/uu-cafe-2.png){.lightbox group="uu-cafe" fig-alt="A person standing in front of a screen with a presentation slide saying 'Basics of reproducible project management'."}
 
-![uu-cafe-1](images/uu-cafe-1.png)
+![](images/uu-cafe-1.png){.lightbox group="uu-cafe" fig-alt="A picture of a room with people sitting at tables spread out around the room. Some people have laptops open. The people are all looking in the same direction."}
 
-![uu-cafe-2](images/uu-cafe-2.png)
+A session at the Utrecht University Programming Cafe
+:::
 
 ## Who we are
 
@@ -22,8 +28,8 @@ Everyone is welcome at the Programming Café. We expect most attendees will be R
 
 ## Community Meetings
 
-The Programming Café takes place on a monthly basis, and it will last about two hours (usually towards the end of the workday). Registration is not required. See the GitHub page [UtrechtUniversity/programming-cafe](https://github.com/UtrechtUniversity/programming-cafe) for more information. 
+The Programming Café takes place on a monthly basis, and it will last about two hours (usually towards the end of the workday). Registration is not required. See the [website](https://www.uu.nl/en/research/research-data-management/workshops/programming-cafe-0) for more information. 
 
 ## More information? 
 
-The Programming Cage is an initiative of [Research Data Management Support](https://www.uu.nl/en/research/research-data-management) at Utrecht University. The current organizers are Neha Moopen & Jelle Treep. For more information, you can contact the organizers via info.rdm(at)uu.nl or keep up with the GitHub page (and eventual website): [UtrechtUniversity/programming-cafe](https://github.com/UtrechtUniversity/programming-cafe)  
+The Programming Cage is an initiative of [Research Data Management Support](https://www.uu.nl/en/research/research-data-management) at Utrecht University. The current organizers are Neha Moopen & Jelle Treep. For more information, you can contact the organizers via info.rdm [at] uu.nl or keep up with the website.

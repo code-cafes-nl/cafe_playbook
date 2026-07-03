@@ -1,3 +1,7 @@
+---
+date-modified: today
+---
+
 # Tilburg University: Coding Café {.unnumbered}
 
 *Do you want to learn how to write better code? Finally learn version control? Make your code more robust? Figure out how to smoothly write software within teams? Then the Coding Café might just be your cup of tea* ☕*!*
@@ -8,7 +12,7 @@ And what would be a coding session without a good snack? To keep all your coding
 
 **Our GitLab Group:** <https://gitlab.uvt.nl/coding-caf>
 
-![tiu-cafe](images/tiu-cafe.jpg)
+![Tilburg University Coding Cafe](images/tiu-cafe.jpg){.lightbox fig-alt="A picture showing a row of six open pizza boxes on a table in the back, with people working on their laptops in the row in front."}
 
 ## Setup
 

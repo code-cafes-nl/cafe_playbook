@@ -1,0 +1,27 @@
+# Session materials {.unnumbered}
+
+```{=html}
+<link rel="stylesheet" property="stylesheet" href="https://elixirtess.github.io/TeSS_widgets/css/tess-widget.css"/>
+<div id="tess-widget-materials-collection" class="tess-widget tess-widget-list"></div>
+<script>
+function initTeSSWidgets() {
+    TessWidget.Materials(document.getElementById('tess-widget-materials-collection'),
+        'DropdownTable',
+        {
+            opts: {
+                columns: [{name: 'Name', field: 'title'},
+                    {name: 'Description', field: 'description'}],
+                dropdowns: [{name: 'Topic', field: 'keywords'}],
+                truncateLength: 0
+            },
+            params: {
+                collections: ['CAFE (Code Along, Feel Empowered)'],
+                sort: 'mod'
+            },
+            baseUrl: 'https://taxila.nl/'
+        });
+}
+</script>
+<script async="" defer="" src="https://elixirtess.github.io/TeSS_widgets/js/tess-widget-standalone.js" onload="initTeSSWidgets()"></script>
+
+```
