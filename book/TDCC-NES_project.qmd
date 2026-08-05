@@ -1,0 +1,36 @@
+### In 2025, the TDCC-NES funded The CAFE (Code Along, Feel Empowered) Method project.
+
+::: {.callout-note}
+Scroll down to find dates & location of the roadshow!
+:::
+
+The project aims to create a national network of Programming Cafes using the CAFE method, providing resources, guidance, and a community-building framework to enhance coding literacy among programmers in research. To achieve these goals, the project will expand the existing CAFE Playbook with strategies for starting and managing cafes, organize roadshow and kickstart events to engage new members, and create reusable session materials to facilitate continuous learning and collaboration.
+
+> "With this funding, we aim to establish programming CAFÉs in universities nationwide, creating accessible and welcoming spaces for learning and exchanging knowledge.” - Aleksandra Wilczynska, 4TU.ResearchData Project leader
+
+![](https://tdcc.nl/wp-content/uploads/2025/03/Project-summaries-1.png)
+
+![](https://tdcc.nl/wp-content/uploads/2025/03/Project-summaries-2.png)
+
+### CAFE Roadshow
+
+In 2026, the WP2 leads are organizing a roadshow to share information about the CAFE playbook and stimulate the creation of new CAFEs.
+
+#### Past and Upcoming Roadshow dates:
+- 2025-06 Presentation at the National onboarding day
+- 2025-10 Info-session at the Open Science Festival in Groningen, delivered together with the Turing Way
+- 2025-11 Presentation at the National Research Software Day
+- 2026-05 Pitch at the SURF research day
+- 2026-06 Info-session in Nijmegen
+- 2026-06 Info-session at the Open Science Festival in Maastricht, delivered together with the TDCC-NES DC4NES project
+- 2026-06 Presentationat the National onboarding day
+- **2026-sept or oct Info-session in Groningen**
+- **2026-sept or oct Online info-session**
+
+### Kick-started cafes sponsored by this project:
+- 2025-11 Erasmus University
+- **2026-09 Nijmegen & Wageningen Hub**
+- **2026-09 Twente Hub**
+
+If you are interested in connecting with one on the hubs, please get in touch with us via 
+rstnl@esciencecenter.nl
