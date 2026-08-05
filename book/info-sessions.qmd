@@ -21,13 +21,21 @@ Zoom link: FIXME
 
 #### Target audience: 
 
-We hope to connect with research software trainers, training coordinators, research support professionals, data stewards, and open science coordinators (basically training and open science enthusiasts) at research-performing organisations, particularly those interested in scalable models for digital and computational skills training. 
+We hope to connect with:
+
+- Research software trainers
+- Training coordinators
+- Research support professionals
+- Data stewards
+- Open science coordinators 
+
+Basically training and open science enthusiasts at research-performing organisations, particularly those interested in scalable models for digital and computational skills training. 
 
   
 
 #### The key takeaway for the session:  
 
-Locally embedded, regionally networked instructors, researchers and support professionals that provide welcoming spaces to practice new skills in a sustainable way, are the key to increase digital literacy in research. 
+Locally embedded, regionally networked instructors, researchers and support professionals that provide welcoming spaces to practice new skills in a sustainable way are the key to increase digital literacy in research. 
 
  
 
