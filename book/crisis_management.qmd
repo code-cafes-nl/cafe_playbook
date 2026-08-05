@@ -1,0 +1,143 @@
+# What to do when it all goes wrong
+
+There are a lot of moving parts when setting up a new community at your institute meaning a lot of room for calamity. From presenters cancelling to fire evacuations you are at the mercy of the fates when organising an event. In this chapter we look at what could go wrong at your coding CAFE and how you can come out on top. 
+
+
+# Unexpected events
+
+## Fire evacuation
+
+You might feel that this is an unlikely issue, but it was a problem for the very first [Erasmian Programming Café](https://eur-nl.github.io/programming-cafe/). Just before the presentation was to begin the fire alarm rang and everyone had to leave the building.
+
+
+Here are some steps to take:
+-   First, obviously, make sure everyone evacuates safely. 
+-   When leaving you can tell attendees that you are going to gather in a specific spot and will return to the room after. 
+-   When waiting outside update all those who signed up to the event (there are always some late-comers).
+-   If it is a test you should be able to return to the room within 30 minutes, it's up to you if you continue based on how far into the session it happened.
+-   If it is a real fire it's the end of the day for everyone. The building will need a thorough check before anyone can return. 
+
+**How about re-organising?** 
+If you have a presenter for the session then you can discuss with them if that would work out. If you know of another space you can use then it is worth trying, but be aware that you might lose people en-route. You can always replan for a later date, it doesn't need to be the next week, if you want you could add another date to a later month to replace it.
+
+Above all don't worry too much, people will understand that you had to cancel the rest of the session. It will be something to laugh about, this is a live event, you can't control it all.
+
+
+## Food doesn't turn up
+
+**No pizza?!** This might been the nightmare scenario for any CAFE, the promised snacks and food don't arrive. 
+
+This is where having an additional organiser helps. 
+
+-   If it is just late one of you can call the delivery service/internal catering service to find out the estimate and you can let the participants know.
+-   One of you can look for alternatives for delivery or the nearest shop to get snacks from instead. 
+-   Got a presenter for this session? Then your new mission is to find some food. But remember to let the participants know that the order is cancelled or late. 
+
+If there is no option for food it isn't the end of the world. It's only one of the reasons that people join the sessions!
+
+
+## I'm sick
+
+The winter flu season has begun and you are feeling ill. What should you do?
+
+-   Health is wealth, focus on resting at home and getting better soon. 
+-   If you have a presenter let them know. You can always look for someone to take over the hosting for you, but it is best to manage people's expectations. 
+-   If there is nobody that can take over then remember to update participants and cancel the event and food order. Not everyone will get the mail, so update the event page with a big "CANCELLED" message.
+
+Now it's time to get some soup and multivitamins in you, take it easy. 
+
+
+# Organisational issues
+
+## Room is double booked
+
+Everyone has experienced it before, you go to a room you booked for a meeting and sat there is another group "We booked this until 4pm". Now what?
+
+-   If you know of another free room the easiest solution is to move there and update the presenter and participants. Ask the other group in the room to pass on the message and leave a note on the door if you can.
+-   You're not going to be making friends forcing people to leave. Stop and take a moment before asking if they had definitely booked the room, would be willing to move or if they know of a free space.
+-   If you have more people with you it is likely the smaller group can find a back up room more easily.
+-   You can double check that you do have the reservation and let them know, they might have just run over with their meeting or hoped the room was free.
+
+
+## There is a large event going on at the same time
+
+It's the day of your CAFE, the CAFE date you chose months ago and now you find out that the local football team is in the cup final, or a large conference is being hosted by your institution, or Maarten van Rossem has decided to stand in main building on campus for 24 hours straight for no discernible reason. What should you do? Stick or twist?
+
+**Stick**
+-   Be prepared for more drop outs than normal
+-   Send another email to ask people to update their status (and maybe even remind/invite their friends)
+-   Let the presenter know that turn out will be effected
+-   Let the participants know that they might have extra food today due to "the event"
+**Twist**
+-   Confer with your presenter if you have one
+-   Update all participants immediately with the reason and ask them to spread the word
+-   Update the event page to say the event has been moved to a new date
+-   If you can, have an alternative date ready
+
+It is frustrating, but not the end of the world. Your session might take a hit, but the CAFE in general will survive!
+
+
+## Presenter cancels last minute
+
+Deadlines, illness, childcare, train strikes, they can affect anyone. Unfortunately they affected your presenter.
+
+Don't worry, this is one of the many reasons we have our [pre-formed CAFE sessions](). Choose one from our list (or your personal stash), update your participants and you're good to go! The presenter can always join for a session in the future.
+
+
+## Train delays
+
+Our beloved yellow and blue locomotive friends can sometimes have a little trouble getting us to where we want. What do we do when NS is failing us?
+
+**My train or the presenters train is delayed** 
+- Buy for time, have someone start the session, maybe it can start as a code diagnostic session instead of what was planned to be presented. 
+-   If the delays are too big then it might be best to keep the session as code diagnostic and re-plan for another date. 
+-   Remember to update the participants about the change and the delay.
+
+**The train of the paricipants is delayed** 
+- Let the presenter know, you don't want them to think nobody is showing up and they might need to adjust their presentation to match the new start time. 
+-   If some participants are already there then delay and start slowly. 
+-   Check to make sure that the room isn't booked after your session, that way you can avoid changing room. 
+-   If the room is booked after you then be prepared to scout out and move to a free room or cut the session short. 
+-   If there is really not enough time to finish the presentation you can always add a small write up in a post on your CAFE website.
+
+
+# Turn out problems
+
+## I'm only getting students
+
+Typically the coding CAFEs are hosted by research support staff and so are aimed at researchers. So when students/presearchers (pre-researchers) turn up en-masse you might feel a little disheartened.
+
+Don't worry, your advertising just needs a little tweak:
+-   Perhaps the topics you have are a little more attractive to students or the messaging suggests it leans more towards students. 
+-   Ask some coworkers to review your flyers/posters/emails, they can let you know if it seems to suggest its a student event.
+-   Go to researchers directly. Go to faculties directly and talk to them, find out if they have heard about it, how they usually hear about events, and what topics they would like to see.
+-   Try making contact with the local PhD council, that is by default only researchers.
+-   If you are able to, present the CAFE and some of your other support services and communities in the new employee onboarding sessions. Not all wil be researcher, but they can still spread the word for you.
+
+
+## My group is always small
+
+Advertising is tough, especially internal advertising. Don't sweat it community building takes time, here are some tips on how to spread the word.
+
+-   Talk to data-stewards and software-stewards, they are well integrated in their departments and know the right people to share CAFE with.
+-   Make posters to put up around campus and in the coffee area of departments.
+-   Make contact with the secretaries in the faculties. They can share your posters and flyers in the newsletter, make sure to minimise the messaging to just the more relevant topics for their department.
+-   Get the message out in the institute zine, it goes to all staff and is the ideal place to share messaging on events.
+-   Make some stickers to give out at the CAFE sessions, let your group advertise for you!
+-   Get some budget and make a big advertising push once or twice a year. Print t-shirts, hand out goodies, catch attention with free treats in excahnge for sign up to newsletters or mailing lists.
+-   Stay consistent with your advertising and try to create a recognisable look or feel to the images/posters. It will help people to fill in the blanks immediately.
+
+
+## My group size varies wildly
+
+Live events are never consistent, even with good advertising there are outside factors that can affect that. Here are a few things to think about when planning.
+
+-   Keep an eye on when exams season is, PhDs are usually the ones marking them.
+-   Avoid planning CAFEs too close to holidays, most people will have trips booked around them.
+-   Trains, see above.
+-   Weather changes plans. Cycling in to the office when there's 30mm of rain isn't appealing to most people, neither is 30°C heat. 
+- Topics, not all topics are equally interesting to everyone. Sometimes it just isn't a hot topic for the audience, it happens.
+-   The type of session can draw different sized crowds and each institute varies. Maybe interactive hands on sessions are a favourite, perhaps walkthroughs work best, maybe people prefer an update on a new tool or technique, or a simple code support session could be what your participants want most.
+
+
+Try changing your topics and session types to get a feel of what works for your audience, the rest is down to the gods.
