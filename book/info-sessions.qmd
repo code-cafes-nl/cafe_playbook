@@ -1,0 +1,56 @@
+Hi there, 
+
+ 
+
+We would like to invite you to join an **online** information session on programming CAFEs and Carpentries workshops!
+
+Date: TBD 
+
+Time: TBD CEST
+
+Zoom link: TBA
+
+ 
+
+### The goals of the information session are:
+
+1. To share tools and resources to kick-start your own programming CAFE, or receive support for an existing initiative. 
+2. To discuss the creation of training hubs; synergy between programming CAFEs and Carpentries Workshops. 
+
+ 
+
+#### Target audience: 
+
+We hope to connect with:
+
+- Research software trainers
+- Training coordinators
+- Research support professionals
+- Data stewards
+- Open science coordinators 
+
+Basically training and open science enthusiasts at research-performing organisations, particularly those interested in scalable models for digital and computational skills training. 
+
+  
+
+#### The key takeaway for the session:  
+
+Locally embedded, regionally networked instructors, researchers and support professionals that provide welcoming spaces to practice new skills in a sustainable way are the key to increase digital literacy in research. 
+
+ 
+
+#### Background information: 
+
+Computational and data science skills are increasingly essential for research, yet training and support capacity remains unevenly spread across Dutch institutions. We are now combining forces of two TDCC-NES funded projects (The Programming CAFEs and the Building Digital Skills 4 NES), supported by OSNL and the [RST-NL network](https://researchsoftwaretraining.nl/), to address this gap. Please join our session to become connected, learn about the resources we are sharing and help make this a collaborative success!  
+
+  
+
+The [Programming CAFE (Code Along, Feel Empowered)](https://tdcc.nl/projects/tdcc-nes-projects/the-cafe-code-along-feel-empowered-method/) initiative supports researchers and research supporters in building sustainable, welcoming spaces where coding skills can be learned, practiced, and shared. The CAFE approach begins with a short presentation and then transitions into a collaborative session where participants work on coding projects, share advice, and troubleshoot problems together in a relaxed setting.  
+
+The [Building Digital Skills Training and Lesson Development Capacity in the Netherlands NES Domain (DC4NES)](https://tdcc.nl/projects/tdcc-nes-projects/building-digital-skills-training-and-lesson-development-capacity-in-the-netherlands-nes-domain/) project aims to establish regional Training Hubs where institutions pool instructors, share organisational responsibilities, and deliver workshops collaboratively, making training sustainable even where resources are limited.  
+
+ 
+
+These projects are supporting research-performing institutions in launching new CAFEs and new Carpentries workshops by providing a playbook and resources for several kick-off events. Please help us to define new hubs and get connected! 
+
+ 
